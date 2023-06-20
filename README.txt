@@ -11,6 +11,10 @@ Changelog:
 
 
 FAQ:
+# How do I download this mod from Github?
+I also hate this UI and I often forget how to download from here. 
+But click on the green button "<> Code" and then click on the "Download ZIP" button.
+
 # Where can I find the ships?
 The ships are flown and the weapons are used by the Hegemony and can be found in their markets. In addition you can find the ships as derelicts floating in space. 
 You can also craft all the ships and weapons yourself after obtaining the single Stargate Blueprint Package that you can discover the same way as all other blueprints.
