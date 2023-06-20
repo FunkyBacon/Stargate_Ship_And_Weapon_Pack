@@ -5,17 +5,18 @@ Credits and thanks:
 The incredible modders of the Sins of a Solar Empire Stargate mod "Stargate Invasion" have graciously allowed me to use their models for this mod. Please find their mod below: 
 https://github.com/StargateInvasion/SGI
 
+
 Changelog:
-2023/06/20	V1.00	Initial release version.
+2023/06/21	V1.00	Initial release version.
 
 
 FAQ:
-#Where can I find the ships?
+# Where can I find the ships?
 The ships are flown and the weapons are used by the Hegemony and can be found in their markets. In addition you can find the ships as derelicts floating in space. 
 You can also craft all the ships and weapons yourself after obtaining the single Stargate Blueprint Package that you can discover the same way as all other blueprints.
 
 
-#Is the mod compatible with other mods?
+# Is the mod compatible with other mods?
 I can't promise it is compatible with all mods, but I've tentatively confirmed it works as intended with all of the following mods enabled at once:
 -A new level of confidence 40 2.1
 -Adjustable Automated Ships 1.0.1
@@ -36,21 +37,22 @@ I can't promise it is compatible with all mods, but I've tentatively confirmed i
 Please let me know if you encounter any compatability issues!
 
 
-#Are the ships/weapons balanced compared to Vanilla?
+# Are the ships/weapons balanced compared to Vanilla?
 I have tried to balance them somewhat but this is a very time intensive process and difficult thing to do. Especially for someone like myself who has only done a single campaign of StarSector and is not aware of the gazillion of possible ship builds out there. 
 Some ships, like the Ori's Deliverance, are intended to be exceptionally strong. These ships have a much higher deployment point cost in an attempt to compensate for this. Same goes for weapons like the Ancients' Drone launchers.
 The balancing was done based on the "Elite" variants listed under Autofit, which are the intended fits for these ships. In addition the weapons have not been tested on Vanilla ships. I am aware that this means in 'unintended' scenarios they could possibly be completely broken one way or the other.
-However, I have chosen to release the mod in a semi-finished state instead of tweaking it another million times before release to get feedback and allow myself to move onwards to the next step for this mod meanwhile.
+However, I have chosen to release the mod in a semi-finished state instead of tweaking it another million times before release to get feedback and allow myself to move onwards to the next steps for this mod meanwhile.
 If you find something that you think is underpowered or overpowered, please let me know on the forum!
 [link]
 
 
-#What is the next step mentioned above?
+# What is the next steps mentioned above?
 I intend to import more models for each of the factions, and have the individual stargate factions spawn separately as factions ingame!
 Once the above has been realized I'll also split the factions into their own individual blueprint packages.
 That said, I intend to have the Weapon and Ship pack, and the Faction implementation as two separate mods.
+In addition, I also want to change the weapon models and weapon sounds.
 
 
-#The Daedalus' weapon layout makes it somewhat difficult to click on all the ballistic/missile slots in the front!
+# The Daedalus' weapon layout makes it somewhat difficult to click on all the ballistic/missile slots in the front!
 I am aware of this. Sadly the choices I am aware of is between an oversized Daedalus model ingame or a reduction in weapon slots moving away from the TV series' model. 
 I intend to revisit this issue at some point in the future, but please let me know if you know another way to go about solving this!
