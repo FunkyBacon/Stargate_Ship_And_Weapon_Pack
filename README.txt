@@ -7,7 +7,7 @@ https://github.com/StargateInvasion/SGI
 
 
 Changelog:
-2023/06/21	V1.00	Initial release version.
+2023/06/21	V1.0.0	Initial release version.
 
 
 FAQ:
