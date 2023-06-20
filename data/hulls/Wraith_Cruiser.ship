@@ -1,0 +1,235 @@
+{
+  "bounds": [
+    -89,
+    9,
+    -90,
+    18.5,
+    -176,
+    24,
+    -176,
+    31,
+    -83,
+    38,
+    -61,
+    51.5,
+    -34.5,
+    98,
+    -24.5,
+    101,
+    22,
+    53.5,
+    91,
+    27.5,
+    175,
+    5.5,
+    175,
+    -5.5,
+    91,
+    -27.5,
+    22,
+    -53.5,
+    -24.5,
+    -101,
+    -34.5,
+    -98,
+    -61,
+    -51.5,
+    -83,
+    -38,
+    -176,
+    -31,
+    -176,
+    -24,
+    -90,
+    -18.5,
+    -89,
+    -9,
+    -131.5,
+    -0.5
+  ],
+  "builtInMods": [
+    "shield_shunt",
+    "armoredweapons",
+    "autorepair",
+    "heavyarmor"
+  ],
+  "builtInWings": [],
+  "center": [
+    119.5,
+    186
+  ],
+  "collisionRadius": 189,
+  "engineSlots": [
+    {
+      "angle": -180,
+      "contrailSize": 8,
+      "length": 34,
+      "location": [
+        -87,
+        16
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 8,
+      "length": 34,
+      "location": [
+        -87,
+        -16
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    },
+    {
+      "angle": -180,
+      "contrailSize": 8,
+      "length": 34,
+      "location": [
+        -84,
+        38
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 8,
+      "length": 34,
+      "location": [
+        -84,
+        -38
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    }
+  ],
+  "height": 388,
+  "hullId": "Wraith_Cruiser",
+  "hullName": "Cruiser",
+  "hullSize": "CRUISER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 185,
+  "spriteName": "graphics/ships/Wraith_Cruiser.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 90,
+      "id": "WS0007",
+      "locations": [
+        163,
+        -1
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 90,
+      "id": "WS0008",
+      "locations": [
+        85,
+        20
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 90,
+      "id": "WS0009",
+      "locations": [
+        85,
+        -20
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 90,
+      "id": "WS0003",
+      "locations": [
+        23,
+        -46
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 90,
+      "id": "WS0004",
+      "locations": [
+        23,
+        46
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 91,
+      "id": "WS0005",
+      "locations": [
+        -24.5,
+        -85
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 91,
+      "id": "WS0006",
+      "locations": [
+        -24.5,
+        85
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 1",
+      "locations": [
+        45,
+        26,
+        53.5,
+        37.5
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 2",
+      "locations": [
+        49.5,
+        -31,
+        53,
+        -40
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    }
+  ],
+  "width": 241
+}

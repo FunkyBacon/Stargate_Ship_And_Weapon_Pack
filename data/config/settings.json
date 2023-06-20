@@ -1,0 +1,12 @@
+{
+	"designTypeColors":{
+		"Stargate":[252,173,60,255],
+    },
+
+    "graphics":{
+
+       "blueprint_packages":{
+ 			"stargate_package":"graphics/icons/cargo/bp_stargate.png",			
+        },
+	},
+}

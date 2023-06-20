@@ -1,0 +1,30 @@
+{
+	"id":"Destiny_Small_Turret",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"ENERGY",
+	"size":"SMALL",
+	"displayArcRadius":650,
+	"turretSprite":"graphics/weapons/Destiny_Small_Turret.png",
+	"turretGunSprite":"graphics/weapons/Destiny_Small_Turret_Recoil.png",
+	"hardpointSprite":"graphics/weapons/Destiny_Small_Turret.png",
+	"hardpointGunSprite":"graphics/weapons/Destiny_Small_Turret_Recoil.png",	
+	"visualRecoil":10.0,  # the gun sprites are only used if this is non-0
+	"renderHints":[RENDER_BARREL_BELOW],
+	"turretOffsets":[20, -5, 22, 0, 20, 5],
+	"turretAngleOffsets":[0, 0, 0],
+	"hardpointOffsets":[25, -5, 27, 0, 25, 5],
+	"hardpointAngleOffsets":[0, 0, 0],
+	"specialWeaponGlowWidth":15,
+	"specialWeaponGlowHeight":40,
+	"barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+	"animationType":"MUZZLE_FLASH",  # NONE, GLOW, MUZZLE_FLASH, SMOKE
+	"muzzleFlashSpec":{"length":30.0,   # only used if animationType = MUZZLE_FLASH
+					   "spread":36,
+					   "particleSizeMin":12.0,
+					   "particleSizeRange":32.0,
+					   "particleDuration":0.13,
+					   "particleCount":35,
+					   "particleColor":[165,225,185,175]},
+	"projectileSpecId":"Destiny_Small_Turret_shot",  # projectile that will be fired
+	"fireSoundTwo":"autocannon_fire",	
+}

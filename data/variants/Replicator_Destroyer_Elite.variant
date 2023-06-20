@@ -1,0 +1,25 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 6,
+  "fluxVents": 20,
+  "goalVariant": true,
+  "hullId": "Replicator_Destroyer",
+  "hullMods": [
+    "turretgyros"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Replicator_Destroyer_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "Replicator_Medium_Turret",
+        "WS0004": "Replicator_Large_Turret",
+        "WS0005": "Replicator_Medium_Turret"
+      }
+    }
+  ],
+  "wings": []
+}

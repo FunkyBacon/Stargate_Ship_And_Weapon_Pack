@@ -1,0 +1,24 @@
+{
+  "displayName": "Fighter",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "Tau'ri_F-302",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Tau'ri_F-302_Fighter",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Tau'ri_Micro_Railgun",
+        "WS0002": "Tau'ri_Micro_Railgun",
+        "WS0003": "Tau'ri_Micro_Cruise_Missile_Launcher",
+        "WS0004": "Tau'ri_Micro_SRM_Launcher"
+      }
+    }
+  ],
+  "wings": []
+}

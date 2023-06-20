@@ -1,0 +1,221 @@
+{
+  "bounds": [
+    -36,
+    12.5,
+    -65,
+    13,
+    -58.5,
+    31.5,
+    -45.5,
+    32.5,
+    -50.5,
+    46,
+    -17,
+    65.5,
+    -9.5,
+    54,
+    0,
+    66,
+    20,
+    63.5,
+    5,
+    36,
+    25,
+    22.5,
+    42.5,
+    50.5,
+    55.5,
+    37,
+    49,
+    22,
+    64,
+    21,
+    64,
+    -21,
+    49,
+    -22,
+    55.5,
+    -37,
+    42.5,
+    -50.5,
+    25,
+    -22.5,
+    5,
+    -36,
+    20,
+    -63.5,
+    0,
+    -66,
+    -9.5,
+    -54,
+    -17,
+    -65.5,
+    -50.5,
+    -46,
+    -45.5,
+    -32.5,
+    -58.5,
+    -31.5,
+    -65,
+    -13,
+    -36,
+    -12.5
+  ],
+  "builtInMods": [
+    "advancedshieldemitter"
+  ],
+  "builtInWings": [],
+  "center": [
+    71,
+    70.5
+  ],
+  "collisionRadius": 72.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 0,
+      "length": 0,
+      "location": [
+        1.5,
+        -0
+      ],
+      "style": "LOW_TECH",
+      "width": 0
+    },
+    {
+      "angle": 180,
+      "contrailSize": 0,
+      "length": 0,
+      "location": [
+        -0.5,
+        -20
+      ],
+      "style": "LOW_TECH",
+      "width": 0
+    },
+    {
+      "angle": -180,
+      "contrailSize": 0,
+      "length": 0,
+      "location": [
+        -0.5,
+        20
+      ],
+      "style": "LOW_TECH",
+      "width": 0
+    }
+  ],
+  "height": 143,
+  "hullId": "Goa'uld_Hok'kesh",
+  "hullName": "Hok'kesh",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 70.5,
+  "spriteName": "graphics/ships/Goa'uld_Hok'kesh.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 1",
+      "locations": [
+        -22.5,
+        2,
+        -35,
+        1
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 215,
+      "id": "WS0006",
+      "locations": [
+        59.5,
+        -1
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -1,
+      "arc": 230,
+      "id": "WS0003",
+      "locations": [
+        44,
+        -35
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 1,
+      "arc": 230,
+      "id": "WS0007",
+      "locations": [
+        44,
+        35
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -88,
+      "arc": 248,
+      "id": "WS0001",
+      "locations": [
+        3,
+        -57
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 88,
+      "arc": 248,
+      "id": "WS0002",
+      "locations": [
+        3,
+        57
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -180,
+      "arc": 215,
+      "id": "WS0004",
+      "locations": [
+        -51.5,
+        -21.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 180,
+      "arc": 215,
+      "id": "WS0005",
+      "locations": [
+        -51.5,
+        21.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 143
+}

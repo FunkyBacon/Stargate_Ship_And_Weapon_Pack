@@ -1,0 +1,39 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	# carriers
+	"combatSmallForSmallFleet":{
+		"Goa'uld_Hok'kesh_Elite":25,
+		"Tau'ri_Concordia_Elite":20,
+	},
+	"combatMedium":{
+		"Ancient_Atropos_Elite":10,
+		"Goa'uld_Ha'tak_Elite":25,
+		"Replicator_Destroyer_Elite":10,
+		"Tau'ri_Prometheus_Elite":20,
+	},
+	"combatLarge":{
+		"Ancient_Caelus_Elite":10,
+		"Ancient_Seedship_Elite":5,
+		"Goa'uld_Ha'tel_Elite":25,
+		"Replicator_Spider_Elite":10,
+		"Tau'ri_Heracles_Elite":20,
+		"Wraith_Cruiser_Elite":25,
+	},
+	"combatCapital":{
+		"Replicator_Samantha_Elite":10,
+	},
+
+	"carrierSmall":{
+		"Tau'ri_Phoenix_Elite":20,
+	},
+	"carrierLarge":{
+		"Tau'ri_Daedalus_Elite":20,
+		"Ancient_Aurora_Elite":10,
+		"Ancient_Destiny_Elite":5,
+		"Goa'uld_Anubis_Elite":5,
+		"Goa'uld_Apophis_Elite":25,
+		"Ori_Deliverance_Elite":2,
+		"Wraith_Hive_Elite":25,
+	},
+}

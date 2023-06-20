@@ -1,0 +1,241 @@
+{
+  "bounds": [
+    -198,
+    -28,
+    -187.5,
+    -72.5,
+    -173.5,
+    -104.5,
+    -153,
+    -129,
+    -141,
+    -132.5,
+    -145.5,
+    -109,
+    -140.5,
+    -96,
+    -143,
+    -92,
+    -110,
+    -67,
+    -54.5,
+    -39,
+    24,
+    -18,
+    226,
+    -7,
+    226,
+    7,
+    24,
+    18,
+    -54.5,
+    39,
+    -110,
+    67,
+    -143,
+    92,
+    -140.5,
+    96,
+    -145.5,
+    109,
+    -141,
+    132.5,
+    -153,
+    129,
+    -173.5,
+    104.5,
+    -187.5,
+    72.5,
+    -198,
+    28
+  ],
+  "builtInMods": [
+    "advancedshieldemitter",
+    "turretgyros",
+    "hardenedshieldemitter"
+  ],
+  "builtInWings": [],
+  "center": [
+    138,
+    213.5
+  ],
+  "collisionRadius": 240,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 84,
+      "length": 7.5,
+      "location": [
+        -196.5,
+        -1.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 84
+    },
+    {
+      "angle": 168.5,
+      "contrailSize": 56,
+      "length": 7.5,
+      "location": [
+        -193,
+        41
+      ],
+      "style": "HIGH_TECH",
+      "width": 56
+    },
+    {
+      "angle": -168.5,
+      "contrailSize": 56,
+      "length": 7.5,
+      "location": [
+        -193,
+        -41
+      ],
+      "style": "HIGH_TECH",
+      "width": 56
+    },
+    {
+      "angle": 161.5,
+      "contrailSize": 56,
+      "length": 7.5,
+      "location": [
+        -185,
+        75.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 56
+    },
+    {
+      "angle": -161.5,
+      "contrailSize": 56,
+      "length": 7.5,
+      "location": [
+        -185,
+        -75.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 56
+    },
+    {
+      "angle": 147,
+      "contrailSize": 56,
+      "length": 7.5,
+      "location": [
+        -170.5,
+        105
+      ],
+      "style": "HIGH_TECH",
+      "width": 56
+    },
+    {
+      "angle": -147,
+      "contrailSize": 56,
+      "length": 7.5,
+      "location": [
+        -170.5,
+        -105
+      ],
+      "style": "HIGH_TECH",
+      "width": 56
+    }
+  ],
+  "height": 448,
+  "hullId": "Ancient_Seedship",
+  "hullName": "Seedship",
+  "hullSize": "CRUISER",
+  "shieldCenter": [
+    -0.5,
+    -0
+  ],
+  "shieldRadius": 234.5,
+  "spriteName": "graphics/ships/Ancient_Seedship.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0003",
+      "locations": [
+        69.5,
+        0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0008",
+      "locations": [
+        -90.5,
+        16
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0009",
+      "locations": [
+        -90.5,
+        -16
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0010",
+      "locations": [
+        -154.5,
+        49
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0011",
+      "locations": [
+        -154.5,
+        -49
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0001",
+      "locations": [
+        -160,
+        98
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        -160,
+        -98
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 278
+}

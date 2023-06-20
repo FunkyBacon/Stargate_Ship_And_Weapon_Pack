@@ -1,0 +1,29 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 5,
+  "fluxVents": 7,
+  "goalVariant": true,
+  "hullId": "Goa'uld_Hok'kesh",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Goa'uld_Hok'kesh_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Goa'uld_Small_Turret",
+        "WS0002": "Goa'uld_Small_Turret",
+        "WS0003": "Goa'uld_Medium_Turret",
+        "WS0004": "Goa'uld_Medium_Turret",
+        "WS0005": "Goa'uld_Small_Turret",
+        "WS0006": "Goa'uld_Small_Turret",
+        "WS0007": "Goa'uld_Medium_Turret"
+      }
+    }
+  ],
+  "wings": [
+    "Goa'uld_Glider_wing"
+  ]
+}

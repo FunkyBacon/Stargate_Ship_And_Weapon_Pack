@@ -1,0 +1,283 @@
+{
+  "bounds": [
+    -80.5,
+    -14.5,
+    -63.5,
+    -20.5,
+    -104.5,
+    -22.5,
+    -98,
+    -43.5,
+    -67,
+    -53.5,
+    -71,
+    -81,
+    -37.5,
+    -101,
+    -18.5,
+    -83,
+    7.5,
+    -107.5,
+    31,
+    -103.5,
+    11.5,
+    -67,
+    25.5,
+    -77,
+    51,
+    -63.5,
+    48,
+    -47.5,
+    71.5,
+    -81.5,
+    87,
+    -65,
+    77.5,
+    -28.5,
+    106,
+    -20.5,
+    106,
+    20.5,
+    77.5,
+    28.5,
+    87,
+    65,
+    71.5,
+    81.5,
+    48,
+    47.5,
+    51,
+    63.5,
+    25.5,
+    77,
+    11.5,
+    67,
+    31,
+    103.5,
+    7.5,
+    107.5,
+    -18.5,
+    83,
+    -37.5,
+    101,
+    -71,
+    81,
+    -67,
+    53.5,
+    -98,
+    43.5,
+    -104.5,
+    22.5,
+    -63.5,
+    20.5,
+    -80.5,
+    14.5
+  ],
+  "builtInMods": [
+    "advancedshieldemitter"
+  ],
+  "builtInWings": [],
+  "center": [
+    113.5,
+    111
+  ],
+  "collisionRadius": 121.5,
+  "engineSlots": [
+    {
+      "angle": -178,
+      "contrailSize": 0,
+      "length": 0,
+      "location": [
+        4,
+        -0
+      ],
+      "style": "LOW_TECH",
+      "width": 0
+    },
+    {
+      "angle": -178,
+      "contrailSize": 0,
+      "length": 0,
+      "location": [
+        -5,
+        -28.5
+      ],
+      "style": "LOW_TECH",
+      "width": 0
+    },
+    {
+      "angle": 178,
+      "contrailSize": 0,
+      "length": 0,
+      "location": [
+        -5,
+        28.5
+      ],
+      "style": "LOW_TECH",
+      "width": 0
+    }
+  ],
+  "height": 220,
+  "hullId": "Goa'uld_Ha'tak",
+  "hullName": "Ha'tak",
+  "hullSize": "DESTROYER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 118,
+  "spriteName": "graphics/ships/Goa'uld_Ha'tak.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 1",
+      "locations": [
+        31,
+        -53.5,
+        36.5,
+        -65
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": -0,
+      "arc": 215,
+      "id": "WS0003",
+      "locations": [
+        95,
+        2
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 2",
+      "locations": [
+        18.5,
+        37,
+        29.5,
+        53
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 215,
+      "id": "WS0011",
+      "locations": [
+        69.5,
+        56
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 215,
+      "id": "WS0012",
+      "locations": [
+        69.5,
+        -56
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -67.5,
+      "arc": 215,
+      "id": "WS0001",
+      "locations": [
+        30,
+        -61
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 67.5,
+      "arc": 215,
+      "id": "WS0002",
+      "locations": [
+        30,
+        61
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -76,
+      "arc": 215,
+      "id": "WS0008",
+      "locations": [
+        10,
+        -94
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 76,
+      "arc": 215,
+      "id": "WS0009",
+      "locations": [
+        10,
+        94
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 179,
+      "arc": 215,
+      "id": "WS0004",
+      "locations": [
+        -72.5,
+        -36
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -179,
+      "arc": 215,
+      "id": "WS0005",
+      "locations": [
+        -72.5,
+        36
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 178.5,
+      "arc": 215,
+      "id": "WS0006",
+      "locations": [
+        -64.5,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 227
+}

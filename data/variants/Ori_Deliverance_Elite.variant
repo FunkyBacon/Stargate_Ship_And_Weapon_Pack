@@ -1,0 +1,44 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 50,
+  "fluxVents": 44,
+  "goalVariant": true,
+  "hullId": "Ori_Deliverance",
+  "hullMods": [
+    "heavyarmor",
+    "defensive_targeting_array",
+    "blast_doors"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Ori_Deliverance_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "Ori_Beam_Weapon"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0010": "Ori_Medium_Turret",
+        "WS0011": "Ori_Medium_Turret",
+        "WS0012": "Ori_Medium_Turret",
+        "WS0013": "Ori_Medium_Turret",
+        "WS0014": "Ori_Medium_Turret",
+        "WS0015": "Ori_Medium_Turret",
+        "WS0016": "Ori_Medium_Turret",
+        "WS0017": "Ori_Medium_Turret"
+      }
+    }
+  ],
+  "wings": [
+    "Ori_Interceptor_wing",
+    "Ori_Interceptor_wing",
+    "Ori_Interceptor_wing",
+    "Ori_Interceptor_wing"
+  ]
+}

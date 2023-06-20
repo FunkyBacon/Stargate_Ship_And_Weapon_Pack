@@ -1,0 +1,105 @@
+{
+  "bounds": [
+    -5.5,
+    -3,
+    4,
+    -10.5,
+    4,
+    10.5,
+    -5.5,
+    3
+  ],
+  "builtInWings": [],
+  "center": [
+    11.5,
+    8
+  ],
+  "collisionRadius": 20.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 6,
+      "length": 15.5,
+      "location": [
+        -5.5,
+        2
+      ],
+      "style": "LOW_TECH",
+      "width": 6
+    },
+    {
+      "angle": -180,
+      "contrailSize": 6,
+      "length": 15.5,
+      "location": [
+        -5.5,
+        -2
+      ],
+      "style": "LOW_TECH",
+      "width": 6
+    }
+  ],
+  "height": 14,
+  "hullId": "Tau'ri_F-302",
+  "hullName": "F-302",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 19.5,
+  "spriteName": "graphics/ships/Tau'ri_F-302.png",
+  "style": "MIDLINE",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        2,
+        4
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -0,
+      "arc": 5,
+      "id": "WS0002",
+      "locations": [
+        2,
+        -4
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0003",
+      "locations": [
+        2.5,
+        8
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -0,
+      "arc": 5,
+      "id": "WS0004",
+      "locations": [
+        2.5,
+        -8
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "MISSILE"
+    }
+  ],
+  "width": 23
+}

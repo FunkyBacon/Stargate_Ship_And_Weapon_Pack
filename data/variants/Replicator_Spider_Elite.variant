@@ -1,0 +1,32 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 11,
+  "fluxVents": 30,
+  "goalVariant": true,
+  "hullId": "Replicator_Spider",
+  "hullMods": [
+    "turretgyros",
+    "ecm"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Replicator_Spider_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Replicator_Medium_Turret",
+        "WS0004": "Replicator_Medium_Turret",
+        "WS0005": "Replicator_Medium_Turret",
+        "WS0006": "Replicator_Medium_Turret",
+        "WS0007": "Replicator_Medium_Turret",
+        "WS0008": "Replicator_Large_Turret",
+        "WS0009": "Replicator_Medium_Turret",
+        "WS0010": "Replicator_Medium_Turret",
+        "WS0011": "Replicator_Medium_Turret"
+      }
+    }
+  ],
+  "wings": []
+}

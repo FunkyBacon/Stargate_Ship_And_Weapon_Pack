@@ -1,0 +1,56 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 40,
+  "fluxVents": 48,
+  "goalVariant": true,
+  "hullId": "Goa'uld_Apophis",
+  "hullMods": [
+    "turretgyros",
+    "fluxcoil",
+    "ecm"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Goa'uld_Apophis_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Goa'uld_Large_Turret",
+        "WS0002": "Goa'uld_Medium_Turret",
+        "WS0003": "Goa'uld_Medium_Turret",
+        "WS0004": "Goa'uld_Medium_Turret",
+        "WS0005": "Goa'uld_Medium_Turret",
+        "WS0006": "Goa'uld_Medium_Turret",
+        "WS0007": "Goa'uld_Medium_Turret",
+        "WS0010": "Goa'uld_Medium_Turret",
+        "WS0011": "Goa'uld_Medium_Turret",
+        "WS0012": "Goa'uld_Medium_Turret",
+        "WS0013": "Goa'uld_Medium_Turret",
+        "WS0014": "Goa'uld_Large_Turret",
+        "WS0015": "Goa'uld_Large_Turret",
+        "WS0020": "Goa'uld_Medium_Turret",
+        "WS0021": "Goa'uld_Medium_Turret"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0008": "Goa'uld_Small_Turret",
+        "WS0009": "Goa'uld_Small_Turret",
+        "WS0018": "Goa'uld_Small_Turret",
+        "WS0019": "Goa'uld_Small_Turret",
+        "WS0022": "Goa'uld_Small_Turret",
+        "WS0023": "Goa'uld_Small_Turret"
+      }
+    }
+  ],
+  "wings": [
+    "Goa'uld_Al'kesh_wing",
+    "Goa'uld_Glider_wing",
+    "Goa'uld_Glider_wing",
+    "Goa'uld_Glider_wing"
+  ]
+}

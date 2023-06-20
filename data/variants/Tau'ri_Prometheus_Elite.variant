@@ -1,0 +1,47 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 20,
+  "fluxVents": 8,
+  "goalVariant": true,
+  "hullId": "Tau'ri_Prometheus",
+  "hullMods": [
+    "missleracks",
+    "pointdefenseai",
+    "fluxcoil"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Tau'ri_Prometheus_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0007": "Tau'ri_Medium_Railgun",
+        "WS0008": "Tau'ri_Medium_Railgun",
+        "WS0009": "Tau'ri_Medium_Railgun"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0010": "Tau'ri_Medium_Cruise_Missile_Launcher",
+        "WS0011": "Tau'ri_Medium_Cruise_Missile_Launcher"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "Tau'ri_Small_Railgun",
+        "WS0004": "Tau'ri_Small_Railgun",
+        "WS0005": "Tau'ri_Small_Railgun",
+        "WS0006": "Tau'ri_Small_Railgun"
+      }
+    }
+  ],
+  "wings": [
+    "Tau'ri_F-301_wing"
+  ]
+}

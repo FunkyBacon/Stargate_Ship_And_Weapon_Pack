@@ -1,0 +1,37 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 30,
+  "fluxVents": 27,
+  "goalVariant": true,
+  "hullId": "Ancient_Seedship",
+  "hullMods": [
+    "pointdefenseai",
+    "fluxcoil",
+    "fluxdistributor"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Ancient_Seedship_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Destiny_Medium_Turret",
+        "WS0002": "Destiny_Medium_Turret",
+        "WS0010": "Destiny_Medium_Turret",
+        "WS0011": "Destiny_Medium_Turret"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "Destiny_Small_Turret",
+        "WS0008": "Destiny_Small_Turret",
+        "WS0009": "Destiny_Small_Turret"
+      }
+    }
+  ],
+  "wings": []
+}

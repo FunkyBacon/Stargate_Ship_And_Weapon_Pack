@@ -1,0 +1,300 @@
+{
+  "bounds": [
+    -393,
+    -5.5,
+    -395,
+    -14.5,
+    -393,
+    -29,
+    -372.5,
+    -36.5,
+    -371.5,
+    -56,
+    -365.5,
+    -66.5,
+    -310.5,
+    -69.5,
+    -285,
+    -97.5,
+    -220,
+    -164,
+    -170.5,
+    -202.5,
+    -120.5,
+    -224.5,
+    -38,
+    -242,
+    62.5,
+    -251.5,
+    140,
+    -249,
+    214.5,
+    -234.5,
+    322,
+    -198.5,
+    377,
+    -165,
+    416.5,
+    -119,
+    450,
+    -43.5,
+    450,
+    43.5,
+    416.5,
+    119,
+    377,
+    165,
+    322,
+    198.5,
+    214.5,
+    234.5,
+    140,
+    249,
+    62.5,
+    251.5,
+    -38,
+    242,
+    -120.5,
+    224.5,
+    -170.5,
+    202.5,
+    -220,
+    164,
+    -285,
+    97.5,
+    -310.5,
+    69.5,
+    -365.5,
+    66.5,
+    -371.5,
+    56,
+    -372.5,
+    36.5,
+    -393,
+    29,
+    -395,
+    14.5,
+    -393,
+    5.5,
+    -430.5,
+    -0.5
+  ],
+  "builtInMods": [
+    "advancedoptics",
+    "advancedshieldemitter",
+    "fluxcoil",
+    "fluxdistributor",
+    "hardenedshieldemitter",
+    "turretgyros",
+    "hardened_subsystems",
+    "armoredweapons",
+    "autorepair",
+    "ecm"
+  ],
+  "builtInWeapons": {
+    "WS0003": "Ori_Beam_Weapon"
+  },
+  "builtInWings": [],
+  "center": [
+    267.5,
+    429
+  ],
+  "collisionRadius": 485.5,
+  "engineSlots": [
+    {
+      "angle": 178.5,
+      "contrailSize": 194,
+      "length": 90.5,
+      "location": [
+        155.5,
+        5
+      ],
+      "style": "HIGH_TECH",
+      "width": 194
+    },
+    {
+      "angle": -1,
+      "contrailSize": 200.151917,
+      "length": 139.767853,
+      "location": [
+        122,
+        5
+      ],
+      "style": "HIGH_TECH",
+      "width": 200.151917
+    },
+    {
+      "angle": 180,
+      "contrailSize": 57,
+      "length": 64,
+      "location": [
+        -368.5,
+        -49.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 57
+    },
+    {
+      "angle": -180,
+      "contrailSize": 57,
+      "length": 64,
+      "location": [
+        -368.5,
+        49.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 57
+    }
+  ],
+  "height": 899,
+  "hullId": "Ori_Deliverance",
+  "hullName": "Deliverance",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 476.5,
+  "spriteName": "graphics/ships/Ori_Deliverance.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 1",
+      "locations": [
+        228.5,
+        -178,
+        242.5,
+        -212
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 2",
+      "locations": [
+        226.5,
+        178,
+        242.5,
+        208
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 110,
+      "id": "WS0003",
+      "locations": [
+        453.5,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": -90,
+      "arc": 150,
+      "id": "WS0014",
+      "locations": [
+        2.5,
+        -233
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 90,
+      "arc": 150,
+      "id": "WS0015",
+      "locations": [
+        2.5,
+        233
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -92.5,
+      "arc": 150,
+      "id": "WS0016",
+      "locations": [
+        -163.5,
+        -184
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 92.5,
+      "arc": 150,
+      "id": "WS0017",
+      "locations": [
+        -163.5,
+        184
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 150,
+      "id": "WS0010",
+      "locations": [
+        396.5,
+        103
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 150,
+      "id": "WS0011",
+      "locations": [
+        396.5,
+        -103
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 40,
+      "arc": 150,
+      "id": "WS0012",
+      "locations": [
+        223.5,
+        217.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -40,
+      "arc": 150,
+      "id": "WS0013",
+      "locations": [
+        223.5,
+        -217.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 534
+}

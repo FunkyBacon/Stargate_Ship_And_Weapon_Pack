@@ -1,0 +1,56 @@
+{
+  "bounds": [
+    -8.5,
+    -5.5,
+    18,
+    -0,
+    -8.5,
+    5.5
+  ],
+  "builtInWings": [],
+  "center": [
+    6.5,
+    11
+  ],
+  "collisionRadius": 18.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 2,
+      "location": [
+        -8.5,
+        -0
+      ],
+      "style": "LOW_TECH",
+      "width": 7
+    }
+  ],
+  "height": 30,
+  "hullId": "Wraith_Dart",
+  "hullName": "Dart",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 18,
+  "spriteName": "graphics/ships/Wraith_Dart.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        10.5,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 14
+}

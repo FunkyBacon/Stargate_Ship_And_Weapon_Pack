@@ -1,0 +1,201 @@
+{
+  "bounds": [
+    -89,
+    -26.5,
+    -39,
+    -33,
+    -38,
+    -53,
+    27.5,
+    -53.5,
+    32,
+    -31,
+    105.5,
+    -23.5,
+    68,
+    -16.5,
+    68,
+    16.5,
+    105.5,
+    23.5,
+    32,
+    31,
+    27.5,
+    53.5,
+    -38,
+    53,
+    -39,
+    33,
+    -89,
+    26.5
+  ],
+  "builtInMods": [
+    "advancedshieldemitter",
+    "hardenedshieldemitter",
+    "fluxcoil",
+    "fluxdistributor"
+  ],
+  "builtInWings": [],
+  "center": [
+    58.5,
+    99
+  ],
+  "collisionRadius": 117.5,
+  "engineSlots": [
+    {
+      "angle": 179,
+      "contrailSize": 10,
+      "length": 22.5,
+      "location": [
+        -95,
+        -19.5
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": -179,
+      "contrailSize": 10,
+      "length": 22.5,
+      "location": [
+        -95,
+        19.5
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -98,
+        -7
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": -180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -98,
+        7
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    }
+  ],
+  "height": 211,
+  "hullId": "Ancient_Atropos",
+  "hullName": "Atropos",
+  "hullSize": "DESTROYER",
+  "shieldCenter": [
+    0,
+    -0.5
+  ],
+  "shieldRadius": 114.5,
+  "spriteName": "graphics/ships/Ancient_Atropos.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0001",
+      "locations": [
+        27,
+        42
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        27,
+        -42
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 57,
+      "arc": 200,
+      "id": "WS0003",
+      "locations": [
+        31,
+        16.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -57,
+      "arc": 200,
+      "id": "WS0004",
+      "locations": [
+        31,
+        -16.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 90,
+      "arc": 180,
+      "id": "WS0005",
+      "locations": [
+        -40.5,
+        20
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -90,
+      "arc": 180,
+      "id": "WS0006",
+      "locations": [
+        -40.5,
+        -20
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -179.5,
+      "arc": 0,
+      "id": "WS0007",
+      "locations": [
+        -30,
+        42
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 179.5,
+      "arc": 0,
+      "id": "WS0008",
+      "locations": [
+        -30,
+        -42
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "MISSILE"
+    }
+  ],
+  "width": 117
+}

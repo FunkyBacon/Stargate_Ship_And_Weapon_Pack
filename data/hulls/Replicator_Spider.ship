@@ -1,0 +1,265 @@
+{
+  "bounds": [
+    -95.5,
+    26.5,
+    -89.5,
+    46.5,
+    -79,
+    51,
+    -107,
+    75.5,
+    -130.5,
+    104,
+    -114,
+    123,
+    -56,
+    79,
+    -49.5,
+    90,
+    -31,
+    97.5,
+    -22.5,
+    89,
+    -25.5,
+    125,
+    -22,
+    160.5,
+    -14.5,
+    168.5,
+    6.5,
+    167,
+    13,
+    94.5,
+    29.5,
+    98,
+    47,
+    90.5,
+    54,
+    84.5,
+    94.5,
+    123,
+    110,
+    128,
+    122,
+    113,
+    75,
+    52.5,
+    108,
+    54.5,
+    129,
+    29,
+    124,
+    25,
+    108.5,
+    36,
+    90,
+    27,
+    81,
+    12.5,
+    81,
+    -12.5,
+    90,
+    -27,
+    108.5,
+    -36,
+    124,
+    -25,
+    129,
+    -29,
+    108,
+    -54.5,
+    75,
+    -52.5,
+    122,
+    -113,
+    110,
+    -128,
+    94.5,
+    -123,
+    54,
+    -84.5,
+    47,
+    -90.5,
+    29.5,
+    -98,
+    13,
+    -94.5,
+    6.5,
+    -167,
+    -14.5,
+    -168.5,
+    -22,
+    -160.5,
+    -25.5,
+    -125,
+    -22.5,
+    -89,
+    -31,
+    -97.5,
+    -49.5,
+    -90,
+    -56,
+    -79,
+    -114,
+    -123,
+    -130.5,
+    -104,
+    -107,
+    -75.5,
+    -79,
+    -51,
+    -89.5,
+    -46.5,
+    -95.5,
+    -26.5
+  ],
+  "builtInMods": [
+    "armoredweapons",
+    "autorepair",
+    "blast_doors",
+    "heavyarmor",
+    "shield_shunt"
+  ],
+  "builtInWings": [],
+  "center": [
+    181.5,
+    139.5
+  ],
+  "collisionRadius": 174.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 0,
+      "length": 0,
+      "location": [
+        -6.5,
+        3
+      ],
+      "style": "HIGH_TECH",
+      "width": 0
+    }
+  ],
+  "height": 280,
+  "hullId": "Replicator_Spider",
+  "hullName": "Spider",
+  "hullSize": "CRUISER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 172,
+  "spriteName": "graphics/ships/Replicator_Spider.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": -45.5,
+      "arc": 180,
+      "id": "WS0010",
+      "locations": [
+        93.5,
+        -104
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 45.5,
+      "arc": 180,
+      "id": "WS0011",
+      "locations": [
+        93.5,
+        104
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 180,
+      "id": "WS0006",
+      "locations": [
+        104,
+        45.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 180,
+      "id": "WS0007",
+      "locations": [
+        104,
+        -45.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 49,
+      "id": "WS0008",
+      "locations": [
+        73,
+        2.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -90,
+      "arc": 180,
+      "id": "WS0001",
+      "locations": [
+        -10,
+        -141
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 90,
+      "arc": 180,
+      "id": "WS0009",
+      "locations": [
+        -10,
+        141
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -133.5,
+      "arc": 180,
+      "id": "WS0004",
+      "locations": [
+        -107.5,
+        -98
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 133.5,
+      "arc": 180,
+      "id": "WS0005",
+      "locations": [
+        -107.5,
+        98
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 360
+}

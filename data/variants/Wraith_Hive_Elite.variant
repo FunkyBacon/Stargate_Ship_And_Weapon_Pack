@@ -1,0 +1,53 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 46,
+  "fluxVents": 50,
+  "goalVariant": true,
+  "hullId": "Wraith_Hive",
+  "hullMods": [
+    "blast_doors",
+    "dedicated_targeting_core",
+    "fluxdistributor",
+    "fluxcoil",
+    "turretgyros"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Wraith_Hive_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Wraith_Large_Turret",
+        "WS0002": "Wraith_Large_Turret",
+        "WS0003": "Wraith_Medium_Turret",
+        "WS0004": "Wraith_Medium_Turret",
+        "WS0005": "Wraith_Large_Turret",
+        "WS0006": "Wraith_Large_Turret",
+        "WS0007": "Wraith_Large_Turret",
+        "WS0008": "Wraith_Large_Turret",
+        "WS0009": "Wraith_Medium_Turret",
+        "WS0010": "Wraith_Medium_Turret",
+        "WS0011": "Wraith_Large_Turret",
+        "WS0012": "Wraith_Large_Turret",
+        "WS0013": "Wraith_Large_Turret",
+        "WS0014": "Wraith_Large_Turret",
+        "WS0017": "Wraith_Medium_Turret",
+        "WS0018": "Wraith_Medium_Turret",
+        "WS0019": "Wraith_Medium_Turret",
+        "WS0020": "Wraith_Medium_Turret"
+      }
+    }
+  ],
+  "wings": [
+    "Wraith_Dart_wing",
+    "Wraith_Dart_wing",
+    "Wraith_Dart_wing",
+    "Wraith_Dart_wing",
+    "Wraith_Dart_wing",
+    "Wraith_Dart_wing",
+    "Wraith_Dart_wing",
+    "Wraith_Dart_wing"
+  ]
+}

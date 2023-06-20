@@ -1,0 +1,85 @@
+{
+  "bounds": [
+    -16.5,
+    -7.5,
+    -3,
+    -10.5,
+    16,
+    -5.5,
+    16,
+    5.5,
+    -3,
+    10.5,
+    -16.5,
+    7.5
+  ],
+  "builtInWings": [],
+  "center": [
+    11,
+    17.5
+  ],
+  "collisionRadius": 21,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 3,
+      "length": 11.5,
+      "location": [
+        -10,
+        8
+      ],
+      "style": "HIGH_TECH",
+      "width": 3
+    },
+    {
+      "angle": -180,
+      "contrailSize": 3,
+      "length": 11.5,
+      "location": [
+        -10,
+        -8
+      ],
+      "style": "HIGH_TECH",
+      "width": 3
+    }
+  ],
+  "height": 35,
+  "hullId": "Ancient_Jumper",
+  "hullName": "Jumper",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 20.5,
+  "spriteName": "graphics/ships/Ancient_Jumper.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        6.5,
+        6
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -0,
+      "arc": 5,
+      "id": "WS0002",
+      "locations": [
+        6.5,
+        -6
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "MISSILE"
+    }
+  ],
+  "width": 22
+}

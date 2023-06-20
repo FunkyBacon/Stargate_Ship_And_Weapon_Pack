@@ -1,0 +1,199 @@
+{
+  "bounds": [
+    277.5,
+    12,
+    227.5,
+    17,
+    217,
+    68,
+    197,
+    92,
+    61.5,
+    93.5,
+    -77,
+    88,
+    -77,
+    78.5,
+    -173.5,
+    76,
+    42.5,
+    66,
+    -111,
+    57,
+    -60,
+    50.5,
+    -181,
+    42.5,
+    -7,
+    35.5,
+    -60,
+    30,
+    -128.5,
+    22.5,
+    -295.5,
+    4,
+    -278,
+    -10,
+    -149,
+    -22,
+    -18,
+    -29,
+    -5,
+    -36,
+    -105.5,
+    -46,
+    30.5,
+    -59,
+    -41,
+    -62,
+    -23,
+    -70,
+    -83.5,
+    -76,
+    -161,
+    -86,
+    -14.5,
+    -92.5,
+    200,
+    -96,
+    225,
+    -52.5,
+    225,
+    -30,
+    293.5,
+    -25.5,
+    241,
+    -21,
+    279,
+    -15,
+    228.5,
+    -12,
+    228,
+    8
+  ],
+  "builtInMods": [
+    "armoredweapons",
+    "autorepair",
+    "blast_doors",
+    "heavyarmor",
+    "shield_shunt"
+  ],
+  "builtInWings": [],
+  "center": [
+    105,
+    307
+  ],
+  "collisionRadius": 311.5,
+  "engineSlots": [
+    {
+      "angle": -180,
+      "contrailSize": 47,
+      "length": 148.5,
+      "location": [
+        110.5,
+        -7.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 47
+    }
+  ],
+  "height": 606,
+  "hullId": "Replicator_Samantha",
+  "hullName": "Samantha",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 305,
+  "spriteName": "graphics/ships/Replicator_Samantha.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 50,
+      "id": "WS0008",
+      "locations": [
+        192.5,
+        -77
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 50,
+      "id": "WS0009",
+      "locations": [
+        192.5,
+        77
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 50,
+      "id": "WS0010",
+      "locations": [
+        191.5,
+        -44
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 50,
+      "id": "WS0011",
+      "locations": [
+        191.5,
+        44
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 50,
+      "id": "WS0012",
+      "locations": [
+        203,
+        -1.5
+      ],
+      "mount": "TURRET",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 50,
+      "id": "WS0013",
+      "locations": [
+        155.5,
+        -62
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 50,
+      "id": "WS0014",
+      "locations": [
+        155.5,
+        62
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 218
+}

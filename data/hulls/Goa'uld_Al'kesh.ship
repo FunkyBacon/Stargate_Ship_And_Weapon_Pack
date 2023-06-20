@@ -1,0 +1,107 @@
+{
+  "bounds": [
+    -17,
+    -11,
+    1,
+    -16.5,
+    25,
+    -4,
+    25,
+    4,
+    1,
+    16.5,
+    -17,
+    11
+  ],
+  "builtInWings": [],
+  "center": [
+    20.5,
+    19.5
+  ],
+  "collisionRadius": 35,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 14.5,
+      "location": [
+        -11.5,
+        14
+      ],
+      "style": "HIGH_TECH",
+      "width": 7
+    },
+    {
+      "angle": -180,
+      "contrailSize": 7,
+      "length": 14.5,
+      "location": [
+        -11.5,
+        -14
+      ],
+      "style": "HIGH_TECH",
+      "width": 7
+    },
+    {
+      "angle": -180,
+      "contrailSize": 7,
+      "length": 14.5,
+      "location": [
+        -16.5,
+        -9.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 14.5,
+      "location": [
+        -16.5,
+        9.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 7
+    }
+  ],
+  "height": 49,
+  "hullId": "Goa'uld_Al'kesh",
+  "hullName": "Al'kesh",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 34,
+  "spriteName": "graphics/ships/Goa'uld_Al'kesh.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0003",
+      "locations": [
+        0,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        19.5,
+        0
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 41
+}

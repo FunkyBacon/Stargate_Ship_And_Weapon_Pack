@@ -1,0 +1,22 @@
+{
+  "displayName": "Interceptor",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "Goa'uld_Glider",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Goa'uld_Glider_Interceptor",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Goa'uld_Micro_Turret",
+        "WS0002": "Goa'uld_Micro_Turret"
+      }
+    }
+  ],
+  "wings": []
+}

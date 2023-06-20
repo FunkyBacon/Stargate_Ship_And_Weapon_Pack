@@ -1,0 +1,507 @@
+{
+  "bounds": [
+    416,
+    12,
+    341,
+    14.5,
+    343.5,
+    23.5,
+    303,
+    24,
+    284,
+    47,
+    200.5,
+    95,
+    151.5,
+    116.5,
+    7,
+    148.5,
+    -42.5,
+    153.5,
+    -87.5,
+    167,
+    -147,
+    167,
+    -147,
+    217,
+    -136,
+    227.5,
+    -138.5,
+    273,
+    -155,
+    289.5,
+    -173,
+    270.5,
+    -178,
+    217,
+    -166.5,
+    216.5,
+    -175.5,
+    166.5,
+    -239.5,
+    160.5,
+    -258.5,
+    149,
+    -283,
+    181.5,
+    -266,
+    142,
+    -300,
+    120.5,
+    -375,
+    168,
+    -309,
+    114.5,
+    -327,
+    100.5,
+    -339,
+    61.5,
+    -400.5,
+    12.5,
+    -400,
+    -13.5,
+    -341,
+    -53,
+    -325,
+    -102.5,
+    -309.5,
+    -113,
+    -376.5,
+    -165.5,
+    -298,
+    -117.5,
+    -264,
+    -141,
+    -286,
+    -173.5,
+    -279,
+    -178.5,
+    -258,
+    -147.5,
+    -233,
+    -160.5,
+    -166,
+    -164.5,
+    -177,
+    -221.5,
+    -176,
+    -256.5,
+    -162.5,
+    -282.5,
+    -149,
+    -284.5,
+    -139,
+    -263.5,
+    -137.5,
+    -224.5,
+    -154,
+    -163.5,
+    -88,
+    -164,
+    -17,
+    -145.5,
+    149.5,
+    -111.5,
+    238.5,
+    -69.5,
+    286,
+    -40.5,
+    303,
+    -18,
+    342,
+    -15.5,
+    341,
+    -6,
+    416,
+    -3.5
+  ],
+  "builtInMods": [
+    "armoredweapons",
+    "autorepair",
+    "heavyarmor",
+    "shield_shunt"
+  ],
+  "builtInWings": [],
+  "center": [
+    296,
+    411.5
+  ],
+  "collisionRadius": 439.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 19,
+      "length": 41.5,
+      "location": [
+        -324,
+        -99
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    },
+    {
+      "angle": -180,
+      "contrailSize": 19,
+      "length": 41.5,
+      "location": [
+        -324,
+        99
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    },
+    {
+      "angle": 180,
+      "contrailSize": 19,
+      "length": 41.5,
+      "location": [
+        -329.5,
+        -84.5
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    },
+    {
+      "angle": -180,
+      "contrailSize": 19,
+      "length": 41.5,
+      "location": [
+        -329.5,
+        84.5
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    },
+    {
+      "angle": 180,
+      "contrailSize": 19,
+      "length": 41.5,
+      "location": [
+        -335,
+        -71
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    },
+    {
+      "angle": -180,
+      "contrailSize": 19,
+      "length": 41.5,
+      "location": [
+        -335,
+        71
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    },
+    {
+      "angle": 180,
+      "contrailSize": 19,
+      "length": 41.5,
+      "location": [
+        -344,
+        -58
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    },
+    {
+      "angle": -180,
+      "contrailSize": 19,
+      "length": 41.5,
+      "location": [
+        -344,
+        58
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    }
+  ],
+  "height": 852,
+  "hullId": "Wraith_Hive",
+  "hullName": "Hive",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 433.5,
+  "spriteName": "graphics/ships/Wraith_Hive.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 1",
+      "locations": [
+        -56.5,
+        171.5,
+        -37,
+        172
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 2",
+      "locations": [
+        -218,
+        202,
+        -189,
+        202.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 3",
+      "locations": [
+        -40.5,
+        37,
+        -22,
+        38.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 4",
+      "locations": [
+        -206.5,
+        0,
+        -186,
+        2
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 50,
+      "arc": 120,
+      "id": "WS0019",
+      "locations": [
+        257.5,
+        38
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -50,
+      "arc": 120,
+      "id": "WS0020",
+      "locations": [
+        257.5,
+        -38
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 50,
+      "arc": 120,
+      "id": "WS0001",
+      "locations": [
+        194.5,
+        75
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -50,
+      "arc": 120,
+      "id": "WS0002",
+      "locations": [
+        194.5,
+        -75
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -51.5,
+      "arc": 120,
+      "id": "WS0011",
+      "locations": [
+        124.5,
+        -96
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 51.5,
+      "arc": 120,
+      "id": "WS0012",
+      "locations": [
+        124.5,
+        96
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 90,
+      "arc": 120,
+      "id": "WS0009",
+      "locations": [
+        56.5,
+        106
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -90,
+      "arc": 120,
+      "id": "WS0010",
+      "locations": [
+        56.5,
+        -106
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 90,
+      "arc": 120,
+      "id": "WS0007",
+      "locations": [
+        -16.5,
+        115
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -90,
+      "arc": 120,
+      "id": "WS0008",
+      "locations": [
+        -16.5,
+        -115
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 90,
+      "arc": 120,
+      "id": "WS0005",
+      "locations": [
+        -88.5,
+        128
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -90,
+      "arc": 120,
+      "id": "WS0006",
+      "locations": [
+        -88.5,
+        -128
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -141,
+      "arc": 120,
+      "id": "WS0003",
+      "locations": [
+        -190.5,
+        -138
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 141,
+      "arc": 120,
+      "id": "WS0004",
+      "locations": [
+        -190.5,
+        138
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -135.5,
+      "arc": 120,
+      "id": "WS0017",
+      "locations": [
+        -262.5,
+        -111
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 135.5,
+      "arc": 120,
+      "id": "WS0018",
+      "locations": [
+        -262.5,
+        111
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -146,
+      "arc": 120,
+      "id": "WS0013",
+      "locations": [
+        -312.5,
+        -56
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 146,
+      "arc": 120,
+      "id": "WS0014",
+      "locations": [
+        -312.5,
+        56
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 591
+}

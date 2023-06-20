@@ -1,0 +1,36 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 10,
+  "fluxVents": 3,
+  "goalVariant": true,
+  "hullId": "Tau'ri_Concordia",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Tau'ri_Concordia_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Tau'ri_Medium_Railgun",
+        "WS0002": "Tau'ri_Medium_Railgun"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "Tau'ri_Small_Cruise_Missile_Launcher"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0004": "Tau'ri_Small_Railgun"
+      }
+    }
+  ],
+  "wings": []
+}

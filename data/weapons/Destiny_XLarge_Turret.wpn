@@ -1,0 +1,28 @@
+{
+	"id":"Destiny_XLarge_Turret",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"ENERGY",
+	"size":"LARGE",
+	"displayArcRadius":1200,
+	"turretSprite":"graphics/weapons/Destiny_XLarge_Turret.png",
+	"turretGlowSprite":"graphics/weapons/Destiny_XLarge_Turret_glow.png",
+	"hardpointSprite":"graphics/weapons/Destiny_XLarge_Turret.png",
+	"hardpointGlowSprite":"graphics/weapons/Destiny_XLarge_Turret_glow.png",
+	"glowColor":[100,100,255,255],
+	"turretOffsets":[25, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[35, 0],
+	"hardpointAngleOffsets":[0],
+	"barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+	"animationType":"GLOW_AND_FLASH",
+	"muzzleFlashSpec":{"length":100.0,   # only used if animationType = MUZZLE_FLASH
+					   "spread":5.0,
+					   "particleSizeMin":20.0,
+					   "particleSizeRange":20.0,
+					   "particleDuration":0.25,
+					   "particleCount":25,
+					   "particleColor":[100,100,255,255]},	
+	"autocharge":true,  # whether the weapon will continue charging and fire if the LMB is tapped instead of held
+	"projectileSpecId":"Destiny_XLarge_Turret_shot",  # projectile that will be fired
+	"fireSoundTwo":"gauss_cannon_fire",
+}

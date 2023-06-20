@@ -1,0 +1,8 @@
+id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackRunRange,attackPositionOffset,num,role,role desc,refit,base value,,,,,,,,,,,,,number
+Ancient_Jumper_wing,Ancient_Jumper_HeavyFighter,"fighter4, fighter, high, stargate_bp, hegemony",0,,3,15,V,2000,800,100,2,FIGHTER,Heavy Fighter,10,20000,,,,,,,,,,,,,1
+Goa'uld_Al'kesh_wing,Goa'uld_Al'kesh_HeavyFighter,"fighter4, fighter, low, stargate_bp, hegemony",0,,3,15,V,2000,600,100,2,FIGHTER,Heavy Fighter,10,10000,,,,,,,,,,,,,1
+Goa'uld_Glider_wing,Goa'uld_Glider_Interceptor,"interceptor1, interceptor, low, stargate_bp, hegemony",0,,3,4,V,3000,500,100,4,INTERCEPTOR,Interceptor,10,2500,,,,,,,,,,,,,1
+Ori_Interceptor_wing,Ori_Interceptor_Interceptor,"interceptor1, interceptor, high, stargate_bp, hegemony",0,,3,4,V,3000,500,100,4,INTERCEPTOR,Interceptor,10,3500,,,,,,,,,,,,,1
+Tau'ri_F-301_wing,Tau'ri_F-301_Fighter,"fighter4, fighter, mid, stargate_bp, hegemony",0,,3,6,V,6000,500,100,4,FIGHTER,Heavy Fighter,10,6000,,,,,,,,,,,,,1
+Tau'ri_F-302_wing,Tau'ri_F-302_Fighter,"fighter4, fighter, mid, stargate_bp, hegemony",0,,3,8,V,6000,500,100,4,FIGHTER,Heavy Fighter,10,6000,,,,,,,,,,,,,1
+Wraith_Dart_wing,Wraith_Dart_Interceptor,"interceptor1, interceptor, low, stargate_bp, hegemony",0,,3,3,V,3000,500,100,5,INTERCEPTOR,Interceptor,10,2500,,,,,,,,,,,,,1

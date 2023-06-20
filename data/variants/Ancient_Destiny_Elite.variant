@@ -1,0 +1,59 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 50,
+  "fluxVents": 31,
+  "goalVariant": true,
+  "hullId": "Ancient_Destiny",
+  "hullMods": [
+    "fluxcoil",
+    "fluxdistributor",
+    "ecm",
+    "dedicated_targeting_core"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Ancient_Destiny_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "Destiny_Large_Turret",
+        "WS0004": "Destiny_XLarge_Turret"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0013": "Destiny_Medium_Turret",
+        "WS0024": "Destiny_Medium_Turret",
+        "WS0025": "Destiny_Medium_Turret",
+        "WS0028": "Destiny_Medium_Turret",
+        "WS0029": "Destiny_Medium_Turret",
+        "WS0032": "Destiny_Medium_Turret",
+        "WS0033": "Destiny_Medium_Turret",
+        "WS0034": "Destiny_Medium_Turret",
+        "WS0035": "Destiny_Medium_Turret"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0020": "Destiny_Small_Turret",
+        "WS0021": "Destiny_Small_Turret",
+        "WS0022": "Destiny_Small_Turret",
+        "WS0023": "Destiny_Small_Turret",
+        "WS0026": "Destiny_Small_Turret",
+        "WS0027": "Destiny_Small_Turret",
+        "WS0030": "Destiny_Small_Turret",
+        "WS0031": "Destiny_Small_Turret"
+      }
+    }
+  ],
+  "wings": [
+    "Ancient_Jumper_wing",
+    "Ancient_Jumper_wing"
+  ]
+}

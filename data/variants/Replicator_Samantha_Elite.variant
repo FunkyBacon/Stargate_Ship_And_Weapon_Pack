@@ -1,0 +1,33 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 26,
+  "fluxVents": 50,
+  "goalVariant": true,
+  "hullId": "Replicator_Samantha",
+  "hullMods": [
+    "ecm",
+    "fluxdistributor",
+    "fluxcoil",
+    "turretgyros",
+    "defensive_targeting_array"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Replicator_Samantha_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0008": "Replicator_Medium_Turret",
+        "WS0009": "Replicator_Medium_Turret",
+        "WS0010": "Replicator_Large_Turret",
+        "WS0011": "Replicator_Large_Turret",
+        "WS0012": "Replicator_Large_Turret",
+        "WS0013": "Replicator_Medium_Turret",
+        "WS0014": "Replicator_Medium_Turret"
+      }
+    }
+  ],
+  "wings": []
+}

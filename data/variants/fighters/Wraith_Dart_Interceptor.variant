@@ -1,0 +1,21 @@
+{
+  "displayName": "Interceptor",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "Wraith_Dart",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Wraith_Dart_Interceptor",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Wraith_Micro_Turret"
+      }
+    }
+  ],
+  "wings": []
+}

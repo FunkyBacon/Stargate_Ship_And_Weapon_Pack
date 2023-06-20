@@ -1,0 +1,22 @@
+{
+  "displayName": "HeavyFighter",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "Ancient_Jumper",
+  "hullMods": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Ancient_Jumper_HeavyFighter",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "Ancient_Micro_Drone_Launcher",
+        "WS0002": "Ancient_Micro_Drone_Launcher"
+      }
+    }
+  ],
+  "wings": []
+}

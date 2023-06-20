@@ -1,0 +1,72 @@
+{
+  "bounds": [
+    -7,
+    -3.5,
+    4,
+    -10.5,
+    2.5,
+    0.5,
+    4,
+    10.5,
+    -7,
+    3.5
+  ],
+  "builtInWings": [],
+  "center": [
+    11.5,
+    10
+  ],
+  "collisionRadius": 12.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 0,
+      "length": 0,
+      "location": [
+        -6,
+        -0
+      ],
+      "style": "LOW_TECH",
+      "width": 0
+    }
+  ],
+  "height": 17,
+  "hullId": "Goa'uld_Glider",
+  "hullName": "Death Glider",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 12,
+  "spriteName": "graphics/ships/Goa'uld_Glider.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        2.5,
+        5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 5,
+      "id": "WS0002",
+      "locations": [
+        2.5,
+        -5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 23
+}

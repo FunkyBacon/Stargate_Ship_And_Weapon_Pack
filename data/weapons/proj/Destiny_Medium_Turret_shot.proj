@@ -1,0 +1,18 @@
+{
+	"id":"Destiny_Medium_Turret_shot",
+	"specClass":"projectile",
+	"spawnType":"BALLISTIC",
+	"collisionClass":"PROJECTILE_FF",
+	"collisionClassByFighter":"PROJECTILE_FIGHTER",
+	"length":40.0,
+	"hitGlowRadius":38,
+	"width":9,
+	"fadeTime":0.20,
+	#"fringeColor":[255,255,100,255],
+	#"coreColor":[255,255,200,150],
+	"fringeColor":[255,220,50,255],
+	"coreColor":[255,220,200,220],
+	"textureScrollSpeed":64.0,
+	"pixelsPerTexel":5.0,
+	"bulletSprite":"graphics/missiles/shell_large_green.png"
+}

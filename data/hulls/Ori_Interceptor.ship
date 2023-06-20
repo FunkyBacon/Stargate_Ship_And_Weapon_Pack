@@ -1,0 +1,85 @@
+{
+  "bounds": [
+    -1,
+    -8.5,
+    17.5,
+    -2,
+    17.5,
+    2,
+    -1,
+    8.5,
+    -11.5,
+    5.5,
+    -11.5,
+    -5.5
+  ],
+  "builtInWings": [],
+  "center": [
+    10.5,
+    15
+  ],
+  "collisionRadius": 22.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 8.5,
+      "location": [
+        -13,
+        2
+      ],
+      "style": "HIGH_TECH",
+      "width": 7
+    },
+    {
+      "angle": -180,
+      "contrailSize": 7,
+      "length": 8.5,
+      "location": [
+        -13,
+        -2
+      ],
+      "style": "HIGH_TECH",
+      "width": 7
+    }
+  ],
+  "height": 35,
+  "hullId": "Ori_Interceptor",
+  "hullName": "Interceptor",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 21.5,
+  "spriteName": "graphics/ships/Ori_Interceptor.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        -1,
+        7.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -0,
+      "arc": 5,
+      "id": "WS0002",
+      "locations": [
+        -1,
+        -7.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 21
+}

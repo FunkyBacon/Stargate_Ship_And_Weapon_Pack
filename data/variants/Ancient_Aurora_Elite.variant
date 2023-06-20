@@ -1,0 +1,70 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 50,
+  "fluxVents": 35,
+  "goalVariant": true,
+  "hullId": "Ancient_Aurora",
+  "hullMods": [
+    "eccm",
+    "turretgyros",
+    "pointdefenseai",
+    "missleracks"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Ancient_Aurora_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "Ancient_Medium_Turret",
+        "WS0004": "Ancient_Medium_Turret",
+        "WS0005": "Ancient_Medium_Turret",
+        "WS0006": "Ancient_Medium_Turret",
+        "WS0007": "Ancient_Large_Turret",
+        "WS0008": "Ancient_Medium_Turret",
+        "WS0012": "Ancient_Large_Turret",
+        "WS0013": "Ancient_Large_Turret",
+        "WS0014": "Ancient_Large_Turret",
+        "WS0017": "Ancient_Medium_Turret"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "Ancient_Large_Drone_Launcher",
+        "WS0015": "Ancient_Large_Drone_Launcher"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0009": "Ancient_Medium_Drone_Launcher",
+        "WS0010": "Ancient_Medium_Drone_Launcher",
+        "WS0011": "Ancient_Medium_Drone_Launcher"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0003": "Ancient_Small_Drone_Launcher",
+        "WS0008t": "Ancient_Small_Drone_Launcher",
+        "WS0018": "Ancient_Small_Drone_Launcher",
+        "WS0019": "Ancient_Small_Drone_Launcher"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {}
+    }
+  ],
+  "wings": [
+    "Ancient_Jumper_wing",
+    "Ancient_Jumper_wing"
+  ]
+}

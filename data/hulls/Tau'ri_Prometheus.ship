@@ -1,0 +1,210 @@
+{
+  "bounds": [
+    97.5,
+    14.5,
+    82.5,
+    17.5,
+    -11,
+    14.5,
+    -8,
+    38,
+    -35,
+    43.5,
+    -40,
+    51,
+    -59,
+    52,
+    -78.5,
+    15,
+    -79.5,
+    -17.5,
+    -60.5,
+    -53,
+    -40,
+    -53.5,
+    -37,
+    -47,
+    -6.5,
+    -40.5,
+    -11.5,
+    -19.5,
+    85,
+    -20.5,
+    97,
+    -17
+  ],
+  "builtInMods": [
+    "hardenedshieldemitter",
+    "turretgyros",
+    "advancedshieldemitter"
+  ],
+  "builtInWings": [],
+  "center": [
+    56,
+    88
+  ],
+  "collisionRadius": 111,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 19,
+      "length": 22.5,
+      "location": [
+        -79.5,
+        7.5
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    },
+    {
+      "angle": -180,
+      "contrailSize": 19,
+      "length": 22.5,
+      "location": [
+        -79.5,
+        -7.5
+      ],
+      "style": "LOW_TECH",
+      "width": 19
+    }
+  ],
+  "height": 189,
+  "hullId": "Tau'ri_Prometheus",
+  "hullName": "Prometheus",
+  "hullSize": "DESTROYER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 109,
+  "spriteName": "graphics/ships/Tau'ri_Prometheus.png",
+  "style": "MIDLINE",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": -62,
+      "arc": 254,
+      "id": "WS0003",
+      "locations": [
+        80,
+        -20.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 60,
+      "arc": 220,
+      "id": "WS0004",
+      "locations": [
+        80.5,
+        16
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -145.5,
+      "arc": 220,
+      "id": "WS0005",
+      "locations": [
+        -57.5,
+        -49.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 126.5,
+      "arc": 220,
+      "id": "WS0006",
+      "locations": [
+        -56.5,
+        45
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -1,
+      "arc": 220,
+      "id": "WS0007",
+      "locations": [
+        -15,
+        32.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -1,
+      "arc": 220,
+      "id": "WS0008",
+      "locations": [
+        -15,
+        -35.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -1,
+      "arc": 220,
+      "id": "WS0009",
+      "locations": [
+        -22,
+        -0.5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "LB 1",
+      "locations": [
+        -27,
+        -0,
+        -10,
+        31.5,
+        -10.5,
+        -35.5
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0010",
+      "locations": [
+        29,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0011",
+      "locations": [
+        53.5,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "MISSILE"
+    }
+  ],
+  "width": 122
+}

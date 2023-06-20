@@ -1,0 +1,35 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 29,
+  "fluxVents": 30,
+  "goalVariant": true,
+  "hullId": "Wraith_Cruiser",
+  "hullMods": [
+    "fluxdistributor",
+    "dedicated_targeting_core",
+    "turretgyros",
+    "blast_doors"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "Wraith_Cruiser_Elite",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "Wraith_Medium_Turret",
+        "WS0004": "Wraith_Medium_Turret",
+        "WS0005": "Wraith_Medium_Turret",
+        "WS0006": "Wraith_Medium_Turret",
+        "WS0007": "Wraith_Medium_Turret",
+        "WS0008": "Wraith_Medium_Turret",
+        "WS0009": "Wraith_Medium_Turret"
+      }
+    }
+  ],
+  "wings": [
+    "Wraith_Dart_wing",
+    "Wraith_Dart_wing"
+  ]
+}

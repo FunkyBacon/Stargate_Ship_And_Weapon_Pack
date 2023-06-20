@@ -1,0 +1,20 @@
+{
+	"id":"Tau'ri_Small_Railgun",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"BALLISTIC",
+	"size":"SMALL",
+	"turretSprite":"graphics/weapons/Tau'ri_Railgun_turret.png",
+	"turretGlowSprite":"graphics/weapons/Tau'ri_Railgun_turret_glow.png",
+	"hardpointSprite":"graphics/weapons/Tau'ri_Railgun_turret.png",
+	"hardpointGlowSprite":"graphics/weapons/Tau'ri_Railgun_turret_glow.png",
+	"glowColor":[200,200,255,255],
+	"turretOffsets":[10, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[15, 0],
+	"hardpointAngleOffsets":[0],
+	"barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+	"animationType":"GLOW",
+	"autocharge":true,  # whether the weapon will continue charging and fire if the LMB is tapped instead of held
+	"projectileSpecId":"Tau'ri_Small_Railgun_shot",  # projectile that will be fired
+	"fireSoundTwo":"railgun_fire",
+}
