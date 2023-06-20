@@ -2,7 +2,7 @@
 A Stargate Ship/Weapon Pack mod for the game StarSector. Currently featuring the Ancients, Goa'uld, Ori, Replicators, Tau'ri, and Wraith.
 
 Credits and thanks:
-The incredible modders of the Sins of a Solar Empire Stargate mod "Stargate Invasion" have graciously allowed me to use their models for this mod. Please find their mod below: 
+The incredible people behind the "Stargate Invasion" mod for Sins of a Solar Empire have graciously allowed me to use their models for this mod. Please find their mod below: 
 https://github.com/StargateInvasion/SGI
 
 
