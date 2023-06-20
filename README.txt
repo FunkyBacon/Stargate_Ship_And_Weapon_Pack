@@ -12,7 +12,7 @@ Changelog:
 
 FAQ:
 # How do I download this mod from Github?
-I also hate this UI and I often forget how to download from here. 
+I also hate their UI and I often forget how to download from there. 
 But click on the green button "<> Code" located above and to the right of the list of files, and then click on the "Download ZIP" button.
 
 # Where can I find the ships?
@@ -60,3 +60,7 @@ In addition, I also want to change the weapon models and weapon sounds.
 # The Daedalus' weapon layout makes it somewhat difficult to click on all the ballistic/missile slots in the front!
 I am aware of this. Sadly the choices I am aware of is between an oversized Daedalus model ingame or a reduction in weapon slots moving away from the TV series' model. 
 I intend to revisit this issue at some point in the future, but please let me know if you know another way to go about solving this!
+
+
+# The Destiny/Seedship/Replicator Samantha/Ori Deliverance glow look silly!
+These ships their sprites I'll have to put time into at some point, but they work well enough for now, on the to-do list.
