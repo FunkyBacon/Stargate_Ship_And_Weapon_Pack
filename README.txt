@@ -1,9 +1,34 @@
+
+
 # About the Stargate Ship And Weapon Pack
-A Stargate Ship/Weapon Pack mod for the game StarSector. Currently featuring the Ancients, Goa'uld, Ori, Replicators, Tau'ri, and Wraith.
+This mod adds the well known ships and weapons from Stargate, with some extras not featured in the original show. Also portraits and flags.
+Currently featuring the Ancients, Goa'uld, Ori, Replicators, Tau'ri, and Wraith.
+
 
 Credits and thanks:
 The incredible people behind the "Stargate Invasion" mod for Sins of a Solar Empire have graciously allowed me to use their models for this mod. Please find their mod below: 
 https://github.com/StargateInvasion/SGI
+
+
+Why did I create this mod?
+A space game that doesn't have a Stargate mod? Can't have that. I also love the design of the Daedalus too much to not fly it. And if I add one ship, might as well add all of them and make it available to everyone, right?
+It's probably my first time making a public mod for any game, and am still new to StarSector, so please excuse any roughness around the edges while I get the hang of things!
+
+
+Save game compatability
+Tested with Vanilla, you can add the mod at any time. Market updated immediately and going to a system next door had the Hegemony start using the Stargate ships already.
+However, you can [b]not[/b] remove the mod without starting a new game!
+
+
+[b]Requirements:[/b]
+None as far as I am currently aware.
+
+
+Regarding versioning:
+Despite there still being a lot of things and tweaking to be done, I have decided to release early and start with V1.0.0 as starting with anything below that would mean it would almost certainly never reach V1.0.0 because there is always more to perfect.
+Please let me know if you encounter any issues or have feedback!  :)
+[link]
+
 
 
 Changelog:
@@ -41,6 +66,13 @@ I can't promise it is compatible with all mods, but I've tentatively confirmed i
 Please let me know if you encounter any compatability issues!
 
 
+# I hate the Hegemony! I want another faction to use them instead! / I don't want any faction to use them!
+Cool! You can easily transfer the ships/weapons to any other faction by editing the following files and changing the Hegemony tag to the faction of your choice, or removing the tag leaving only you able to fly the ships in the universe:
+- weapon_data.csv
+- ship_data.csv
+- wing_data.csv
+
+
 # Are the ships/weapons balanced compared to Vanilla?
 I have tried to balance them somewhat but this is a very time intensive process and difficult thing to do. Especially for someone like myself who has only played a single campaign of StarSector and is not yet quite aware of the gazillion of possible ship builds out there. 
 Some ships, like the Ori's Deliverance, are intended to be exceptionally strong. These ships have a much higher deployment point cost in an attempt to compensate for this. Same goes for weapons like the Ancients' Drone launchers.
@@ -55,6 +87,11 @@ I intend to import more models for each of the factions, and have the individual
 Once the above has been realized I'll also split the factions into their own individual blueprint packages.
 That said, I currently intend to have the Weapon and Ship pack, and the Faction implementation as two separate mods.
 In addition, I also want to change the weapon models and weapon sounds.
+
+
+# And when will that release be?
+I have absolutely no idea! But I do know it's time for me to somewhat step away from games for a little bit and focus on my studies for my upcoming midterm exams.
+Mini-updates to tweak weapons/ships aren't off the table however.
 
 
 # The Daedalus' weapon layout makes it somewhat difficult to click on all the ballistic/missile slots in the front!
