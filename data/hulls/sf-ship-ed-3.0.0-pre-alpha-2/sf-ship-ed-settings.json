@@ -1,0 +1,36 @@
+{
+  "UTF8_support": 0,
+  "custom_FONT": "",
+  "custom_bg_image": "",
+  "data_dir": "C:/Pearlabyss/Star Sector/Starsector/mods/Stargate_Ship_And_Weapon_Pack/data/hulls/",
+  "data_font_size": 10,
+  "fluxmod_limit_override": 0,
+  "font_size": 14,
+  "fps_limit": 60,
+  "hide_vanilla_data": 0,
+  "images_dir": "C:/Pearlabyss/Star Sector/Starsector/mods/BC-304/graphics/ships/",
+  "localization_file": "",
+  "mod_dirs": [
+    "C:\\Pearlabyss\\Star Sector\\Starsector\\mods\\BC-304/",
+    "C:\\Pearlabyss\\Star Sector\\Starsector\\mods\\BC-304/",
+    "C:\\Pearlabyss\\Star Sector\\Starsector\\mods\\BC-304/",
+    "C:\\Pearlabyss\\Star Sector\\Starsector\\mods\\BC-304/",
+    "C:\\Pearlabyss\\Star Sector\\Starsector\\mods\\BC-304/",
+    "C:\\Pearlabyss\\Star Sector\\Starsector\\mods\\BC-304/",
+    "C:\\Pearlabyss\\Star Sector\\Starsector\\mods\\Stargate_Ship_And_Weapon_Pack/"
+  ],
+  "performance_mode": 0,
+  "raw_json_view_max_column_width": 60,
+  "scale_help_UI": 1,
+  "scale_help_UI_scale_level": 0.9,
+  "skin_dir": "C:\\Pearlabyss\\Star Sector\\Starsector/",
+  "skin_images_dir": "C:\\Pearlabyss\\Star Sector\\Starsector/",
+  "starsector_base_dir": "C:\\Pearlabyss\\Star Sector\\Starsector/",
+  "variant_dir": "C:/Pearlabyss/Star Sector/Starsector/mods/BC-304/data/variants/",
+  "weapon_dir": "",
+  "weapon_images_dir": "C:\\Pearlabyss\\Star Sector\\Starsector/",
+  "window_size": [
+    1024,
+    768
+  ]
+}

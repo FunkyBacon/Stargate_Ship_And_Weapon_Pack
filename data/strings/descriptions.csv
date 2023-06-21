@@ -64,3 +64,5 @@ Tau'ri_Nuclear_MIRV_Launcher,WEAPON,"When the single Nuclear missile kept gettin
 Wraith_Micro_Turret,WEAPON,"A tiny version of the energy-weapons used by the Wraith found on their Darts.",,,,
 Wraith_Medium_Turret,WEAPON,"A medium-sized energy weapon used by the Wraith to inflict damage to their targets.",,,,
 Wraith_Large_Turret,WEAPON,"A large-sized energy weapon used by the Wraith to quickly destroy smaller targets and inflict large amounts of damage to larger targets.",,,,
+,,,,,,
+Wraith_Array,SHIP_SYSTEM,"Using their auxiliary energy reserves the Wraith ships can temporarily increase their energy weapons' rate of fire.",,,,

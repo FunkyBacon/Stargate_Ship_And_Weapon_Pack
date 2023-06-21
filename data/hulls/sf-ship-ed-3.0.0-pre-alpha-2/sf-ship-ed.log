@@ -1,0 +1,1748 @@
+21 Jun 2023 03:14:57 :Loading localization file
+21 Jun 2023 03:14:58 : Enum  HIGH_TECH  (ship.engine.style)
+21 Jun 2023 03:14:58 : Enum  LOW_TECH  (ship.engine.style)
+21 Jun 2023 03:14:58 : Enum  LOW_TECH_FIGHTER  (ship.engine.style)
+21 Jun 2023 03:14:58 : Enum  MIDLINE  (ship.engine.style)
+21 Jun 2023 03:14:58 : Enum  CUSTOM  (ship.engine.style)
+21 Jun 2023 03:14:58 : Enum    (ship.engine.styleId)
+21 Jun 2023 03:14:58 : Enum  HIGH_TECH  (ship.engine.styleId)
+21 Jun 2023 03:14:58 : Enum  LOW_TECH  (ship.engine.styleId)
+21 Jun 2023 03:14:58 : Enum  MIDLINE  (ship.engine.styleId)
+21 Jun 2023 03:14:58 : Enum  midlineFlare  (ship.engine.styleId)
+21 Jun 2023 03:14:58 : Enum  SMOKE  (ship.engine.styleSpec.type)
+21 Jun 2023 03:14:58 : Enum  GLOW  (ship.engine.styleSpec.type)
+21 Jun 2023 03:14:58 : Enum  CAPITAL_SHIP  (ship.hullSize)
+21 Jun 2023 03:14:58 : Enum  CRUISER  (ship.hullSize)
+21 Jun 2023 03:14:58 : Enum  DESTROYER  (ship.hullSize)
+21 Jun 2023 03:14:58 : Enum  FIGHTER  (ship.hullSize)
+21 Jun 2023 03:14:58 : Enum  FRIGATE  (ship.hullSize)
+21 Jun 2023 03:14:58 : Enum  HIGH_TECH  (ship.style)
+21 Jun 2023 03:14:58 : Enum  LOW_TECH  (ship.style)
+21 Jun 2023 03:14:58 : Enum  MIDLINE  (ship.style)
+21 Jun 2023 03:14:58 : Enum  HARDPOINT  (ship.weapon.mount)
+21 Jun 2023 03:14:58 : Enum  HIDDEN  (ship.weapon.mount)
+21 Jun 2023 03:14:58 : Enum  TURRET  (ship.weapon.mount)
+21 Jun 2023 03:14:58 : Enum  LARGE  (ship.weapon.size)
+21 Jun 2023 03:14:58 : Enum  MEDIUM  (ship.weapon.size)
+21 Jun 2023 03:14:58 : Enum  SMALL  (ship.weapon.size)
+21 Jun 2023 03:14:58 : Enum  BALLISTIC  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  ENERGY  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  LAUNCH_BAY  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  MISSILE  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  UNIVERSAL  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  BUILT_IN  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  SYSTEM  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  DECORATIVE  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  HYBRID  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  SYNERGY  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  COMPOSITE  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  STATION_MODULE  (ship.weapon.type)
+21 Jun 2023 03:14:58 : Enum  ALTERNATING  (variant.weaponGroup.mode)
+21 Jun 2023 03:14:58 : Enum  LINKED  (variant.weaponGroup.mode)
+21 Jun 2023 03:14:58 : Enum  NONE  (ship_csv.shield type)
+21 Jun 2023 03:14:58 : Enum  OMNI  (ship_csv.shield type)
+21 Jun 2023 03:14:58 : Enum  FRONT  (ship_csv.shield type)
+21 Jun 2023 03:14:58 : Enum  PHASE  (ship_csv.shield type)
+21 Jun 2023 03:14:58 : Enum    (ship_csv.defense id)
+21 Jun 2023 03:14:58 : Enum  phasecloak  (ship_csv.defense id)
+21 Jun 2023 03:14:58 : Enum  V  (wing_csv.formation)
+21 Jun 2023 03:14:58 : Enum  CLAW  (wing_csv.formation)
+21 Jun 2023 03:14:58 : Enum  BOX  (wing_csv.formation)
+21 Jun 2023 03:14:58 : Enum    (wing_csv.formation)
+21 Jun 2023 03:14:58 : Enum  FIGHTER  (wing_csv.role)
+21 Jun 2023 03:14:58 : Enum  ASSAULT  (wing_csv.role)
+21 Jun 2023 03:14:58 : Enum  INTERCEPTOR  (wing_csv.role)
+21 Jun 2023 03:14:58 : Enum  BOMBER  (wing_csv.role)
+21 Jun 2023 03:14:58 : Enum  SUPPORT  (wing_csv.role)
+21 Jun 2023 03:14:58 : Enum  GLOW  (weapon.animationType)
+21 Jun 2023 03:14:58 : Enum  GLOW_AND_FLASH  (weapon.animationType)
+21 Jun 2023 03:14:58 : Enum  MUZZLE_FLASH  (weapon.animationType)
+21 Jun 2023 03:14:58 : Enum  NONE  (weapon.animationType)
+21 Jun 2023 03:14:58 : Enum  SMOKE  (weapon.animationType)
+21 Jun 2023 03:14:58 : Enum  ALTERNATING  (weapon.barrelMode)
+21 Jun 2023 03:14:58 : Enum  ALTERNATING_BURST  (weapon.barrelMode)
+21 Jun 2023 03:14:58 : Enum  LINKED  (weapon.barrelMode)
+21 Jun 2023 03:14:58 : Enum  LARGE  (weapon.size)
+21 Jun 2023 03:14:58 : Enum  MEDIUM  (weapon.size)
+21 Jun 2023 03:14:58 : Enum  SMALL  (weapon.size)
+21 Jun 2023 03:14:58 : Enum  beam  (weapon.specClass)
+21 Jun 2023 03:14:58 : Enum  projectile  (weapon.specClass)
+21 Jun 2023 03:14:58 : Enum  BALLISTIC  (weapon.type)
+21 Jun 2023 03:14:58 : Enum  ENERGY  (weapon.type)
+21 Jun 2023 03:14:58 : Enum  MISSILE  (weapon.type)
+21 Jun 2023 03:14:58 : Enum  SYSTEM  (weapon.type)
+21 Jun 2023 03:14:58 : Enum  DECORATIVE  (weapon.type)
+21 Jun 2023 03:14:58 : Enum  KINETIC  (weapon_csv.type)
+21 Jun 2023 03:14:58 : Enum  HIGH_EXPLOSIVE  (weapon_csv.type)
+21 Jun 2023 03:14:58 : Enum  FRAGMENTATION  (weapon_csv.type)
+21 Jun 2023 03:14:58 : Enum  ENERGY  (weapon_csv.type)
+21 Jun 2023 03:14:58 : Enum  False  (weapon.interruptibleBurst)
+21 Jun 2023 03:14:58 : Enum  True  (weapon.interruptibleBurst)
+21 Jun 2023 03:14:58 : Enum  False  (weapon.autocharge)
+21 Jun 2023 03:14:58 : Enum  True  (weapon.autocharge)
+21 Jun 2023 03:14:58 : Enum  False  (weapon.requiresFullCharge)
+21 Jun 2023 03:14:58 : Enum  True  (weapon.requiresFullCharge)
+21 Jun 2023 03:14:58 : Enum  False  (weapon.beamFireOnlyOnFullCharge)
+21 Jun 2023 03:14:58 : Enum  True  (weapon.beamFireOnlyOnFullCharge)
+21 Jun 2023 03:14:58 : Enum  False  (weapon.convergeOnPoint)
+21 Jun 2023 03:14:58 : Enum  True  (weapon.convergeOnPoint)
+21 Jun 2023 03:14:58 : Enum  False  (weapon.darkCore)
+21 Jun 2023 03:14:58 : Enum  True  (weapon.darkCore)
+21 Jun 2023 03:14:58 : Enum  CUSTOM  (weapon.textureType)
+21 Jun 2023 03:14:58 : Enum  SMOOTH  (weapon.textureType)
+21 Jun 2023 03:14:58 : Enum  MEDIUM  (weapon.textureType)
+21 Jun 2023 03:14:58 : Enum  ROUGH  (weapon.textureType)
+21 Jun 2023 03:14:58 : Enum  CHUNKY  (weapon.textureType)
+21 Jun 2023 03:14:58 : Enum  ROUGH2  (weapon.textureType)
+21 Jun 2023 03:14:58 : Enum  WEAVE  (weapon.textureType)
+21 Jun 2023 03:14:58 : Enum  LASER  (weapon.textureType)
+21 Jun 2023 03:14:58 : Loading STARFARER-CORE Data (Vanilla)
+21 Jun 2023 03:14:58 : LOADED afflictor.ship
+21 Jun 2023 03:14:58 : LOADED apex.ship
+21 Jun 2023 03:14:58 : LOADED apogee.ship
+21 Jun 2023 03:14:58 : Enum  OMEGA  (ship.style)
+21 Jun 2023 03:14:58 : Enum  OMEGA  (ship.engine.style)
+21 Jun 2023 03:14:58 : LOADED aspect.ship
+21 Jun 2023 03:14:58 : LOADED astral.ship
+21 Jun 2023 03:14:58 : LOADED atlas.ship
+21 Jun 2023 03:14:58 : LOADED atlas2.ship
+21 Jun 2023 03:14:58 : LOADED aurora.ship
+21 Jun 2023 03:14:58 : LOADED bastillon.ship
+21 Jun 2023 03:14:58 : LOADED berserker.ship
+21 Jun 2023 03:14:58 : LOADED brawler.ship
+21 Jun 2023 03:14:58 : LOADED brilliant.ship
+21 Jun 2023 03:14:58 : LOADED broadsword.ship
+21 Jun 2023 03:14:58 : LOADED buffalo.ship
+21 Jun 2023 03:14:58 : LOADED buffalo_mk2.ship
+21 Jun 2023 03:14:58 : LOADED centurion.ship
+21 Jun 2023 03:14:58 : LOADED champion.ship
+21 Jun 2023 03:14:58 : LOADED claw.ship
+21 Jun 2023 03:14:58 : Enum  COBRA_BOMBER  (ship.engine.style)
+21 Jun 2023 03:14:58 : LOADED cobra.ship
+21 Jun 2023 03:14:58 : LOADED colossus.ship
+21 Jun 2023 03:14:58 : LOADED colossus2.ship
+21 Jun 2023 03:14:58 : LOADED colossus3.ship
+21 Jun 2023 03:14:58 : LOADED condor.ship
+21 Jun 2023 03:14:58 : LOADED conquest.ship
+21 Jun 2023 03:14:58 : LOADED constructionrig.ship
+21 Jun 2023 03:14:58 : LOADED dagger.ship
+21 Jun 2023 03:14:58 : LOADED defender.ship
+21 Jun 2023 03:14:58 : LOADED dem_drone.ship
+21 Jun 2023 03:14:58 : LOADED derelict_mothership.ship
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_bow_module.ship
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_pod_engine_left.ship
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_pod_m_left.ship
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_pod_m_right.ship
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_pod_s_right.ship
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_sensor_mast.ship
+21 Jun 2023 03:14:58 : LOADED dominator.ship
+21 Jun 2023 03:14:58 : LOADED doom.ship
+21 Jun 2023 03:14:58 : LOADED dram.ship
+21 Jun 2023 03:14:58 : LOADED drone_assault.ship
+21 Jun 2023 03:14:58 : LOADED drone_borer.ship
+21 Jun 2023 03:14:58 : LOADED drone_pd.ship
+21 Jun 2023 03:14:58 : LOADED drone_pd_midline.ship
+21 Jun 2023 03:14:58 : LOADED drone_sensor.ship
+21 Jun 2023 03:14:58 : LOADED drone_terminator.ship
+21 Jun 2023 03:14:58 : LOADED drover.ship
+21 Jun 2023 03:14:58 : LOADED eagle.ship
+21 Jun 2023 03:14:58 : LOADED enforcer.ship
+21 Jun 2023 03:14:58 : LOADED eradicator.ship
+21 Jun 2023 03:14:58 : LOADED facet.ship
+21 Jun 2023 03:14:58 : LOADED falcon.ship
+21 Jun 2023 03:14:58 : LOADED flare.ship
+21 Jun 2023 03:14:58 : LOADED flash.ship
+21 Jun 2023 03:14:58 : LOADED fulgent.ship
+21 Jun 2023 03:14:58 : LOADED fury.ship
+21 Jun 2023 03:14:58 : LOADED gargoyle.ship
+21 Jun 2023 03:14:58 : LOADED gemini.ship
+21 Jun 2023 03:14:58 : LOADED gladius.ship
+21 Jun 2023 03:14:58 : LOADED glimmer.ship
+21 Jun 2023 03:14:58 : LOADED gremlin.ship
+21 Jun 2023 03:14:58 : LOADED gryphon.ship
+21 Jun 2023 03:14:58 : LOADED guardian.ship
+21 Jun 2023 03:14:58 : LOADED hammerhead.ship
+21 Jun 2023 03:14:58 : LOADED harbinger.ship
+21 Jun 2023 03:14:58 : LOADED hermes.ship
+21 Jun 2023 03:14:58 : LOADED heron.ship
+21 Jun 2023 03:14:58 : LOADED hoplon.ship
+21 Jun 2023 03:14:58 : LOADED hound.ship
+21 Jun 2023 03:14:58 : LOADED hyperion.ship
+21 Jun 2023 03:14:58 : LOADED invictus.ship
+21 Jun 2023 03:14:58 : LOADED kite.ship
+21 Jun 2023 03:14:58 : LOADED lasher.ship
+21 Jun 2023 03:14:58 : LOADED legion.ship
+21 Jun 2023 03:14:58 : LOADED longbow.ship
+21 Jun 2023 03:14:58 : LOADED lumen.ship
+21 Jun 2023 03:14:58 : LOADED lux.ship
+21 Jun 2023 03:14:58 : LOADED manticore.ship
+21 Jun 2023 03:14:58 : LOADED medusa.ship
+21 Jun 2023 03:14:58 : LOADED mercury.ship
+21 Jun 2023 03:14:58 : LOADED merlon.ship
+21 Jun 2023 03:14:58 : LOADED mining_drone.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_armour1.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_armour2.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_armour3.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_armour4.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_armour5.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_bastion1_lowtech.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_bastion_pd1.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_bastion_pd1_lowtech.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_blocker1.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_blocker2.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_blocker2b.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_blocker2c.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_citadel1_lowtech.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_decor_midline1.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_decor_midline2.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_hightech_armour.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_hightech_attack.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_hightech_citadel.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_hightech_decor.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_hightech_hangar.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_hightech_shield.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_hightech_strut.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_large1_lowtech.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_large2_lowtech.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_midline_bastion.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_midline_broadside.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_midline_citadel.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name moduleAnchor in object of type TStarfarerShip
+21 Jun 2023 03:14:58 : LOADED module_midline_support.ship
+21 Jun 2023 03:14:58 : LOADED monitor.ship
+21 Jun 2023 03:14:58 : LOADED mora.ship
+21 Jun 2023 03:14:58 : LOADED mudskipper.ship
+21 Jun 2023 03:14:58 : LOADED mule.ship
+21 Jun 2023 03:14:58 : LOADED nebula.ship
+21 Jun 2023 03:14:58 : LOADED nova.ship
+21 Jun 2023 03:14:58 : LOADED odyssey.ship
+21 Jun 2023 03:14:58 : LOADED omen.ship
+21 Jun 2023 03:14:58 : LOADED onslaught.ship
+21 Jun 2023 03:14:58 : LOADED ox.ship
+21 Jun 2023 03:14:58 : LOADED paragon.ship
+21 Jun 2023 03:14:58 : LOADED pegasus.ship
+21 Jun 2023 03:14:58 : LOADED perdition.ship
+21 Jun 2023 03:14:58 : LOADED phaeton.ship
+21 Jun 2023 03:14:58 : LOADED phantom.ship
+21 Jun 2023 03:14:58 : LOADED picket.ship
+21 Jun 2023 03:14:58 : LOADED piranha.ship
+21 Jun 2023 03:14:58 : LOADED platform1.ship
+21 Jun 2023 03:14:58 : LOADED prometheus.ship
+21 Jun 2023 03:14:58 : LOADED prometheus2.ship
+21 Jun 2023 03:14:58 : LOADED radiant.ship
+21 Jun 2023 03:14:58 : LOADED rampart.ship
+21 Jun 2023 03:14:58 : LOADED ravelin.ship
+21 Jun 2023 03:14:58 : LOADED remnant_armour1.ship
+21 Jun 2023 03:14:58 : LOADED remnant_armour2.ship
+21 Jun 2023 03:14:58 : LOADED remnant_armour3.ship
+21 Jun 2023 03:14:58 : LOADED remnant_hangar1.ship
+21 Jun 2023 03:14:58 : LOADED remnant_shield1.ship
+21 Jun 2023 03:14:58 : LOADED remnant_shield2.ship
+21 Jun 2023 03:14:58 : LOADED remnant_station1.ship
+21 Jun 2023 03:14:58 : LOADED remnant_station2.ship
+21 Jun 2023 03:14:58 : LOADED remnant_weapon_platform1.ship
+21 Jun 2023 03:14:58 : LOADED remnant_weapon_platform2.ship
+21 Jun 2023 03:14:58 : LOADED remnant_weapon_platform3.ship
+21 Jun 2023 03:14:58 : LOADED retribution.ship
+21 Jun 2023 03:14:58 : LOADED revenant.ship
+21 Jun 2023 03:14:58 : LOADED sarissa.ship
+21 Jun 2023 03:14:58 : LOADED scarab.ship
+21 Jun 2023 03:14:58 : LOADED scintilla.ship
+21 Jun 2023 03:14:58 : LOADED sentry.ship
+21 Jun 2023 03:14:58 : LOADED shade.ship
+21 Jun 2023 03:14:58 : LOADED shard_left.ship
+21 Jun 2023 03:14:58 : LOADED shard_right.ship
+21 Jun 2023 03:14:58 : LOADED shepherd.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name renderOrderMod in object of type TStarfarerShipWeapon
+21 Jun 2023 03:14:58 : LOADED shrike.ship
+21 Jun 2023 03:14:58 : LOADED shuttlepod.ship
+21 Jun 2023 03:14:58 : LOADED spark.ship
+21 Jun 2023 03:14:58 : LOADED starliner.ship
+21 Jun 2023 03:14:58 : LOADED station1.ship
+21 Jun 2023 03:14:58 : LOADED station1_hightech.ship
+21 Jun 2023 03:14:58 : LOADED station1_midline.ship
+21 Jun 2023 03:14:58 : LOADED station2.ship
+21 Jun 2023 03:14:58 : LOADED station2_hightech.ship
+21 Jun 2023 03:14:58 : LOADED station2_midline.ship
+21 Jun 2023 03:14:58 : LOADED station3.ship
+21 Jun 2023 03:14:58 : LOADED station3_hightech.ship
+21 Jun 2023 03:14:58 : LOADED station3_midline.ship
+21 Jun 2023 03:14:58 : LOADED station_small.ship
+21 Jun 2023 03:14:58 : LOADED sunder.ship
+21 Jun 2023 03:14:58 : LOADED talon.ship
+21 Jun 2023 03:14:58 : LOADED tarsus.ship
+21 Jun 2023 03:14:58 : LOADED tempest.ship
+21 Jun 2023 03:14:58 : LOADED tesseract.ship
+21 Jun 2023 03:14:58 : LOADED thunder.ship
+21 Jun 2023 03:14:58 : LOADED trident.ship
+21 Jun 2023 03:14:58 : LOADED valkyrie.ship
+21 Jun 2023 03:14:58 : LOADED vanguard.ship
+21 Jun 2023 03:14:58 : LOADED venture.ship
+21 Jun 2023 03:14:58 : LOADED vigilance.ship
+21 Jun 2023 03:14:58 : LOADED warden.ship
+21 Jun 2023 03:14:58 : LOADED warhound.ship
+21 Jun 2023 03:14:58 : LOADED warthog.ship
+21 Jun 2023 03:14:58 : LOADED wasp.ship
+21 Jun 2023 03:14:58 : LOADED wayfarer.ship
+21 Jun 2023 03:14:58 : LOADED wolf.ship
+21 Jun 2023 03:14:58 : LOADED xyphos.ship
+21 Jun 2023 03:14:58 : LOADED ziggurat.ship
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED afflictor_d_pirates_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED afflictor_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED apogee_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED apogee_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED astral_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED astral_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED astral_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED atlas2_Standard.variant
+21 Jun 2023 03:14:58 : LOADED atlas_Standard.variant
+21 Jun 2023 03:14:58 : LOADED bastillon_Standard.variant
+21 Jun 2023 03:14:58 : LOADED berserker_Assault.variant
+21 Jun 2023 03:14:58 : LOADED brawler_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_LG_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED buffalo2_Fighter_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED buffalo2_FS.variant
+21 Jun 2023 03:14:58 : LOADED colossus2_Pather.variant
+21 Jun 2023 03:14:58 : LOADED colossus3_Pirate.variant
+21 Jun 2023 03:14:58 : LOADED colossus_Standard.variant
+21 Jun 2023 03:14:58 : LOADED condor_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED condor_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED condor_Support.variant
+21 Jun 2023 03:14:58 : LOADED crig_Standard.variant
+21 Jun 2023 03:14:58 : LOADED defender_PD.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED doom_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED doom_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED doom_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED dram_Light.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drover_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drover_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drover_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED fury_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED fury_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED gemini_Standard.variant
+21 Jun 2023 03:14:58 : LOADED gremlin_d_pirates_Strike.variant
+21 Jun 2023 03:14:58 : LOADED gremlin_luddic_path_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED gremlin_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED heron_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED heron_Attack1.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED heron_Attack2.variant
+21 Jun 2023 03:14:58 : LOADED heron_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hyperion_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hyperion_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED kite_hegemony_Interceptor.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED kite_original_Stock.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED medusa_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED medusa_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED medusa_PD.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED medusa_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED monitor_Escort.variant
+21 Jun 2023 03:14:58 : LOADED monitor_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mudskipper2_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mudskipper2_Hellbore.variant
+21 Jun 2023 03:14:58 : LOADED mudskipper_Standard.variant
+21 Jun 2023 03:14:58 : LOADED nebula_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED odyssey_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED omen_PD.variant
+21 Jun 2023 03:14:58 : LOADED ox_Standard.variant
+21 Jun 2023 03:14:58 : LOADED phaeton_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED phantom_Elite.variant
+21 Jun 2023 03:14:58 : LOADED picket_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED prometheus2_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED prometheus_Super.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED revenant_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED sentry_FS.variant
+21 Jun 2023 03:14:58 : LOADED shade_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shade_d_pirates_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shepherd_Frontier.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shepherd_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shrike_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shrike_p_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shrike_Support.variant
+21 Jun 2023 03:14:58 : LOADED starliner_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED tempest_Attack.variant
+21 Jun 2023 03:14:58 : LOADED tempest_Starting.variant
+21 Jun 2023 03:14:58 : LOADED valkyrie_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_AP.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_FS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Support1.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Support2.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED warden_Defense.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED ziggurat_Experimental.variant
+21 Jun 2023 03:14:58 : LOADED ziggurat_HF.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED ziggurat_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED aurora_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED aurora_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED aurora_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED aurora_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED aurora_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_pather_Raider.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_tritachyon_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED buffalo_d_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED buffalo_hegemony_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED buffalo_luddic_church_Standard.variant
+21 Jun 2023 03:14:58 : LOADED buffalo_pirates_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED buffalo_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED buffalo_tritachyon_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED centurion_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED centurion_LG_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED centurion_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED cerberus_d_pirates_Shielded.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED cerberus_d_pirates_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED cerberus_d_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED cerberus_Hardened.variant
+21 Jun 2023 03:14:58 : LOADED cerberus_luddic_path_Attack.variant
+21 Jun 2023 03:14:58 : LOADED cerberus_Overdriven.variant
+21 Jun 2023 03:14:58 : LOADED cerberus_Shielded.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED cerberus_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED cerberus_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED champion_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED champion_DEMEscort.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED champion_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED champion_Escort.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED champion_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED champion_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED conquest_DEM.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED conquest_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED conquest_Standard.variant
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_bow_module_Standard.variant
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_pod_engine_left_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_pod_m_left_Standard.variant
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_pod_m_right_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_pod_s_right_Standard.variant
+21 Jun 2023 03:14:58 : LOADED derelict_mothership_sensor_mast_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED guardian_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED rampart_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED dominator_AntiCV.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED dominator_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED dominator_d_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED dominator_Fighter_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED dominator_Outdated.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED dominator_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED dominator_XIV_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_borer.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_pd.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_pd_midline.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_sensor.variant
+21 Jun 2023 03:14:58 : LOADED drone_terminator.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eagle_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eagle_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eagle_d_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eagle_LG_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eagle_LG_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eagle_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eagle_xiv_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_d_pirates_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_d_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_Escort.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_Fighter_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_Outdated.variant
+21 Jun 2023 03:14:58 : LOADED enforcer_Overdriven.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_Tutorial.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED enforcer_XIV_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eradicator_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eradicator_Fighter_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eradicator_Outdated.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eradicator_Outdated2.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eradicator_Overdriven.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eradicator_pirates_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eradicator_pirates_Overdriven.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eradicator_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED eradicator_Support.variant
+21 Jun 2023 03:14:58 : LOADED falcon_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED falcon_CS.variant
+21 Jun 2023 03:14:58 : LOADED falcon_d_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED falcon_Escort.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED falcon_LG_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED falcon_LG_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED falcon_p_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED falcon_xiv_Elite.variant
+21 Jun 2023 03:14:58 : LOADED falcon_xiv_Escort.variant
+21 Jun 2023 03:14:58 : LOADED broadsword_Fighter.variant
+21 Jun 2023 03:14:58 : LOADED claw_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED cobra_Bomber.variant
+21 Jun 2023 03:14:58 : LOADED dagger_Bomber.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED gladius_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED khopesh_Bomber.variant
+21 Jun 2023 03:14:58 : LOADED longbow_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mining_drone_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED perdition_Bomber.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED piranha_Bomber.variant
+21 Jun 2023 03:14:58 : LOADED sarissa_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED talon_Interceptor.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED thunder_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED trident_Bomber.variant
+21 Jun 2023 03:14:58 : LOADED warthog_Fighter.variant
+21 Jun 2023 03:14:58 : LOADED wasp_Interceptor.variant
+21 Jun 2023 03:14:58 : LOADED xyphos_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED gryphon_DEM.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED gryphon_FS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED gryphon_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hammerhead_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hammerhead_DEM.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hammerhead_d_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hammerhead_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hammerhead_LG_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hammerhead_LG_Elite.variant
+21 Jun 2023 03:14:58 : LOADED hammerhead_Overdriven.variant
+21 Jun 2023 03:14:58 : LOADED hammerhead_Support.variant
+21 Jun 2023 03:14:58 : LOADED hammerhead_Tutorial.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED harbinger_Strike.variant
+21 Jun 2023 03:14:58 : LOADED hermes_d_Standard.variant
+21 Jun 2023 03:14:58 : LOADED hermes_FS.variant
+21 Jun 2023 03:14:58 : LOADED hermes_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hound_d_pirates_Overdriven.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hound_d_pirates_Shielded.variant
+21 Jun 2023 03:14:58 : LOADED hound_d_pirates_Standard.variant
+21 Jun 2023 03:14:58 : LOADED hound_d_Standard.variant
+21 Jun 2023 03:14:58 : LOADED hound_hegemony_Standard.variant
+21 Jun 2023 03:14:58 : LOADED hound_luddic_church_Standard.variant
+21 Jun 2023 03:14:58 : LOADED hound_luddic_path_Attack.variant
+21 Jun 2023 03:14:58 : LOADED hound_Standard.variant
+21 Jun 2023 03:14:58 : LOADED hound_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED invictus_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED invictus_Support.variant
+21 Jun 2023 03:14:58 : LOADED kite_Interceptor.variant
+21 Jun 2023 03:14:58 : LOADED kite_luddic_path_Raider.variant
+21 Jun 2023 03:14:58 : LOADED kite_luddic_path_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED kite_pirates_Raider.variant
+21 Jun 2023 03:14:58 : LOADED kite_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED kite_Starting.variant
+21 Jun 2023 03:14:58 : LOADED kite_Stock.variant
+21 Jun 2023 03:14:58 : LOADED kite_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED lasher_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED lasher_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED lasher_d_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED lasher_luddic_church_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED lasher_luddic_path_Raider.variant
+21 Jun 2023 03:14:58 : LOADED lasher_Overdriven.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED lasher_PD.variant
+21 Jun 2023 03:14:58 : LOADED lasher_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED lasher_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED lasher_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED legion_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED legion_Escort.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED legion_FS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED legion_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED legion_xiv_Automated.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED legion_xiv_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED manticore_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED manticore_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED manticore_luddic_path_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED manticore_Outdated.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED manticore_pirates_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED manticore_pirates_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED manticore_Support.variant
+21 Jun 2023 03:14:58 : LOADED mercury_Attack.variant
+21 Jun 2023 03:14:58 : LOADED mercury_d_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mercury_FS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mercury_PD.variant
+21 Jun 2023 03:14:58 : LOADED mercury_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mora_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mora_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mora_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mora_Torpedo.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mule_d_pirates_Smuggler.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mule_d_pirates_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mule_d_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mule_Fighter_Support.variant
+21 Jun 2023 03:14:58 : LOADED mule_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mule_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED aspect_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED aspect_Missile.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED aspect_Shieldbreaker.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED aspect_Shock.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED facet_Armorbreaker.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED facet_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED facet_Attack2.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED facet_Defense.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED facet_Missile.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED facet_Shieldbreaker.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_left_Armorbreaker.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_left_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_left_Attack2.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_left_Defense.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_left_Missile.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_left_Shieldbreaker.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_right_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_right_Missile.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_right_Shieldbreaker.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shard_right_Shock.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED tesseract_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED tesseract_Attack2.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED tesseract_Defense.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED tesseract_Disruptor.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED tesseract_Shieldbreaker.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED tesseract_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED onslaught_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED onslaught_Outdated.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED onslaught_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED onslaught_xiv_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED paragon_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED paragon_Escort.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED paragon_Raider.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED executor_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED executor_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED pegasus_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED pegasus_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED apex_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED apex_Missile.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED apex_Overdriven.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED apex_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brilliant_Standard.variant
+21 Jun 2023 03:14:58 : LOADED flash_Bomber.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED fulgent_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED fulgent_Support.variant
+21 Jun 2023 03:14:58 : LOADED glimmer_Assault.variant
+21 Jun 2023 03:14:58 : LOADED glimmer_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED lumen_Standard.variant
+21 Jun 2023 03:14:58 : LOADED lux_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED nova_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED nova_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED radiant_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED radiant_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED radiant_Strike.variant
+21 Jun 2023 03:14:58 : LOADED remnant_armour1_Standard.variant
+21 Jun 2023 03:14:58 : LOADED remnant_armour2_Standard.variant
+21 Jun 2023 03:14:58 : LOADED remnant_armour3_Standard.variant
+21 Jun 2023 03:14:58 : LOADED remnant_hangar1_Standard.variant
+21 Jun 2023 03:14:58 : LOADED remnant_hangar1_Strike.variant
+21 Jun 2023 03:14:58 : LOADED remnant_shield1_Standard.variant
+21 Jun 2023 03:14:58 : LOADED remnant_shield2_Standard.variant
+21 Jun 2023 03:14:58 : LOADED remnant_weapon_platform1_Standard.variant
+21 Jun 2023 03:14:58 : LOADED remnant_weapon_platform2_Standard.variant
+21 Jun 2023 03:14:58 : LOADED remnant_weapon_platform3_Standard.variant
+21 Jun 2023 03:14:58 : LOADED scintilla_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED scintilla_Support.variant
+21 Jun 2023 03:14:58 : LOADED spark_Interceptor.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED retribution_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED scarab_Experimental.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED scarab_Starting.variant
+21 Jun 2023 03:14:58 : LOADED gargoyle_Standard.variant
+21 Jun 2023 03:14:58 : LOADED merlon_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_armour1_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_armour2_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_armour3_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_armour4_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_armour5_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_bastion1_lowtech_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_bastion_pd1_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_blocker1_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_blocker2b_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_blocker2c_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_blocker2_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_citadel1_lowtech_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_decor_midline1_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_decor_midline2_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_hightech_armour_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_hightech_attack_minelayer_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_hightech_attack_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_hightech_citadel_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED module_hightech_hangar_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_hightech_shield_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_hightech_strut_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_large1_lowtech_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_large2_lowtech_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_midline_bastion_Standard1.variant
+21 Jun 2023 03:14:58 : LOADED module_midline_bastion_Standard2.variant
+21 Jun 2023 03:14:58 : LOADED module_midline_broadside_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_midline_citadel_Standard.variant
+21 Jun 2023 03:14:58 : LOADED module_midline_support_Standard.variant
+21 Jun 2023 03:14:58 : LOADED platform1_Standard.variant
+21 Jun 2023 03:14:58 : LOADED platform1_Test.variant
+21 Jun 2023 03:14:58 : LOADED ravelin_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED remnant_station2_Damaged.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED remnant_station2_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station1_hightech_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station1_midline_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station1_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station2_hightech_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station2_midline_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station2_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station3_hightech_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station3_midline_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station3_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station_derelict_survey_mothership_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station_small_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name modules in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED station_small_Test.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED sunder_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED sunder_CS.variant
+21 Jun 2023 03:14:58 : LOADED sunder_d_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED sunder_LG_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED sunder_LG_CS.variant
+21 Jun 2023 03:14:58 : LOADED sunder_Overdriven.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED sunder_Support.variant
+21 Jun 2023 03:14:58 : LOADED tarsus_d_Standard.variant
+21 Jun 2023 03:14:58 : LOADED tarsus_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vanguard_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vanguard_Outdated.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vanguard_Outdated2.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vanguard_pirates_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vanguard_pirates_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vanguard_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED venture_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED venture_Exploration.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED venture_Outdated.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED venture_pather_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED venture_p_Pirate.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED wayfarer_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED wayfarer_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED wolf_Assault.variant
+21 Jun 2023 03:14:58 : LOADED wolf_CS.variant
+21 Jun 2023 03:14:58 : LOADED wolf_d_Attack.variant
+21 Jun 2023 03:14:58 : LOADED wolf_d_pirates_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED wolf_hegemony_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED wolf_hegemony_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED wolf_hegemony_PD.variant
+21 Jun 2023 03:14:58 : LOADED wolf_Overdriven.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED wolf_PD.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED wolf_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED wolf_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED afflictor_d_pirates_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED afflictor_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED apogee_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED apogee_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED astral_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED astral_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED astral_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED atlas2_Standard.variant
+21 Jun 2023 03:14:58 : LOADED atlas_Standard.variant
+21 Jun 2023 03:14:58 : LOADED bastillon_Standard.variant
+21 Jun 2023 03:14:58 : LOADED berserker_Assault.variant
+21 Jun 2023 03:14:58 : LOADED brawler_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_LG_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED brawler_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED buffalo2_Fighter_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED buffalo2_FS.variant
+21 Jun 2023 03:14:58 : LOADED colossus2_Pather.variant
+21 Jun 2023 03:14:58 : LOADED colossus3_Pirate.variant
+21 Jun 2023 03:14:58 : LOADED colossus_Standard.variant
+21 Jun 2023 03:14:58 : LOADED condor_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED condor_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED condor_Support.variant
+21 Jun 2023 03:14:58 : LOADED crig_Standard.variant
+21 Jun 2023 03:14:58 : LOADED defender_PD.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED doom_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED doom_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED doom_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED dram_Light.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drover_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drover_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drover_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED fury_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED fury_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED gemini_Standard.variant
+21 Jun 2023 03:14:58 : LOADED gremlin_d_pirates_Strike.variant
+21 Jun 2023 03:14:58 : LOADED gremlin_luddic_path_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED gremlin_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED heron_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED heron_Attack1.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED heron_Attack2.variant
+21 Jun 2023 03:14:58 : LOADED heron_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hyperion_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED hyperion_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED kite_hegemony_Interceptor.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED kite_original_Stock.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED medusa_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED medusa_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED medusa_PD.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED medusa_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED monitor_Escort.variant
+21 Jun 2023 03:14:58 : LOADED monitor_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mudskipper2_CS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mudskipper2_Hellbore.variant
+21 Jun 2023 03:14:58 : LOADED mudskipper_Standard.variant
+21 Jun 2023 03:14:58 : LOADED nebula_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED odyssey_Balanced.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED omen_PD.variant
+21 Jun 2023 03:14:58 : LOADED ox_Standard.variant
+21 Jun 2023 03:14:58 : LOADED phaeton_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED phantom_Elite.variant
+21 Jun 2023 03:14:58 : LOADED picket_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED prometheus2_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED prometheus_Super.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED revenant_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED sentry_FS.variant
+21 Jun 2023 03:14:58 : LOADED shade_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shade_d_pirates_Assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shepherd_Frontier.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shepherd_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shrike_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shrike_p_Attack.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED shrike_Support.variant
+21 Jun 2023 03:14:58 : LOADED starliner_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED tempest_Attack.variant
+21 Jun 2023 03:14:58 : LOADED tempest_Starting.variant
+21 Jun 2023 03:14:58 : LOADED valkyrie_Elite.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_AP.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_FS.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Starting.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Strike.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Support1.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED vigilance_Support2.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED warden_Defense.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED ziggurat_Experimental.variant
+21 Jun 2023 03:14:58 : LOADED ziggurat_HF.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name sMods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED ziggurat_Strike.variant
+21 Jun 2023 03:14:58 : LOADED broadsword_Fighter.variant
+21 Jun 2023 03:14:58 : LOADED claw_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED cobra_Bomber.variant
+21 Jun 2023 03:14:58 : LOADED dagger_Bomber.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED gladius_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED khopesh_Bomber.variant
+21 Jun 2023 03:14:58 : LOADED longbow_Support.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED mining_drone_Standard.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED perdition_Bomber.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED piranha_Bomber.variant
+21 Jun 2023 03:14:58 : LOADED sarissa_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED talon_Interceptor.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED thunder_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED trident_Bomber.variant
+21 Jun 2023 03:14:58 : LOADED warthog_Fighter.variant
+21 Jun 2023 03:14:58 : LOADED wasp_Interceptor.variant
+21 Jun 2023 03:14:58 : LOADED xyphos_Fighter.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_assault.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_borer.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_pd.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_pd_midline.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name mods in object of type TStarfarerVariant
+21 Jun 2023 03:14:58 : LOADED drone_sensor.variant
+21 Jun 2023 03:14:58 : LOADED drone_terminator.variant
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesPerMonth in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesToRecover in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED afflictor_d_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED brawler_LG.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesPerMonth in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesToRecover in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED brawler_pather.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name type in object of type TStarfarerShipWeaponChange
+21 Jun 2023 03:14:58 : [WARN] could not find field name type in object of type TStarfarerShipWeaponChange
+21 Jun 2023 03:14:58 : LOADED brawler_tritachyon.skin
+21 Jun 2023 03:14:58 : LOADED buffalo_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED buffalo_hegemony.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED buffalo_luddic_church.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED buffalo_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED buffalo_tritachyon.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED centurion_LG.skin
+21 Jun 2023 03:14:58 : LOADED cerberus_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED cerberus_d_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED cerberus_luddic_path.skin
+21 Jun 2023 03:14:58 : LOADED dominator_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name incompatibleWithBaseHull in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED dominator_xiv.skin
+21 Jun 2023 03:14:58 : LOADED eagle_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED eagle_LG.skin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TArray
+21 Jun 2023 03:14:58 : [WARN] could not find field name incompatibleWithBaseHull in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED eagle_xiv.skin
+21 Jun 2023 03:14:58 : LOADED enforcer_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED enforcer_d_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TArray
+21 Jun 2023 03:14:58 : [WARN] could not find field name incompatibleWithBaseHull in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED enforcer_xiv.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesPerMonth in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesToRecover in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED eradicator_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name builtInWings in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name fighterBays in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name maxSpeed in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name shieldEfficiency in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED executor.skin
+21 Jun 2023 03:14:58 : LOADED falcon_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED falcon_LG.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesPerMonth in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesToRecover in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED falcon_p.skin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TArray
+21 Jun 2023 03:14:58 : [WARN] could not find field name incompatibleWithBaseHull in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED falcon_xiv.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED gremlin_d_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED gremlin_luddic_path.skin
+21 Jun 2023 03:14:58 : LOADED hammerhead_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED hammerhead_LG.skin
+21 Jun 2023 03:14:58 : LOADED hermes_d.skin
+21 Jun 2023 03:14:58 : LOADED hound_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED hound_d_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name incompatibleWithBaseHull in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED hound_hegemony.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED hound_luddic_church.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED hound_luddic_path.skin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TEnum
+21 Jun 2023 03:14:58 : LOADED kite_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name incompatibleWithBaseHull in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TEnum
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED kite_hegemony.skin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TEnum
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED kite_luddic_path.skin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TEnum
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED kite_original.skin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TEnum
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED kite_pirates.skin
+21 Jun 2023 03:14:58 : LOADED lasher_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED lasher_luddic_church.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED lasher_pather.skin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TArray
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED legion_xiv.skin
+21 Jun 2023 03:14:58 : Error: manticore_pather.skin  [ERROR] unexpected data following root-level entity: ,
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED manticore_pirates.skin
+21 Jun 2023 03:14:58 : LOADED mercury_d.skin
+21 Jun 2023 03:14:58 : LOADED module_hightech_attack_minelayer.skin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TEnum
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED mudskipper2.skin
+21 Jun 2023 03:14:58 : LOADED mule_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED mule_d_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name incompatibleWithBaseHull in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED onslaught_xiv.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesPerMonth in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesToRecover in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED shade_d_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED shrike_pirates.skin
+21 Jun 2023 03:14:58 : LOADED sunder_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED sunder_LG.skin
+21 Jun 2023 03:14:58 : LOADED talon_tritachyon.skin
+21 Jun 2023 03:14:58 : LOADED tarsus_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED vanguard_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name builtInWings in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name fighterBays in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not initialize String from TEnum
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED venture_p.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name builtInWings in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name fighterBays in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED venture_pather.skin
+21 Jun 2023 03:14:58 : LOADED wolf_d.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesPerMonth in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name suppliesToRecover in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED wolf_d_pirates.skin
+21 Jun 2023 03:14:58 : [WARN] could not find field name incompatibleWithBaseHull in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tags in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : [WARN] could not find field name tech in object of type TStarfarerSkin
+21 Jun 2023 03:14:58 : LOADED wolf_hegemony.skin
+21 Jun 2023 03:14:58 : LOADED amblaster.wpn
+21 Jun 2023 03:14:58 : LOADED amsrm.wpn
+21 Jun 2023 03:14:58 : LOADED annihilator.wpn
+21 Jun 2023 03:14:58 : LOADED annihilatorpod.wpn
+21 Jun 2023 03:14:58 : LOADED annihilator_fighter.wpn
+21 Jun 2023 03:14:58 : LOADED arbalest.wpn
+21 Jun 2023 03:14:58 : LOADED atropos.wpn
+21 Jun 2023 03:14:58 : LOADED atropos_single.wpn
+21 Jun 2023 03:14:58 : LOADED autopulse.wpn
+21 Jun 2023 03:14:58 : LOADED blinker_green.wpn
+21 Jun 2023 03:14:58 : LOADED blinker_red.wpn
+21 Jun 2023 03:14:58 : LOADED bomb.wpn
+21 Jun 2023 03:14:58 : LOADED breach.wpn
+21 Jun 2023 03:14:58 : LOADED breachpod.wpn
+21 Jun 2023 03:14:58 : LOADED chaingun.wpn
+21 Jun 2023 03:14:58 : LOADED clusterbomb.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name mountTypeOverride in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED cryoblaster.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name mountTypeOverride in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : [WARN] could not find field name noImpactSounds in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : [WARN] could not find field name unaffectedByProjectileSpeedBonuses in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED cryoflux.wpn
+21 Jun 2023 03:14:58 : LOADED cyclone.wpn
+21 Jun 2023 03:14:58 : LOADED devastator.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name mountTypeOverride in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED disintegrator.wpn
+21 Jun 2023 03:14:58 : LOADED dragon.wpn
+21 Jun 2023 03:14:58 : LOADED dragonpod.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : [WARN] could not find field name playFullFireSoundOne in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED dragon_payload.wpn
+21 Jun 2023 03:14:58 : LOADED dualflak.wpn
+21 Jun 2023 03:14:58 : LOADED flak.wpn
+21 Jun 2023 03:14:58 : LOADED fragbomb.wpn
+21 Jun 2023 03:14:58 : LOADED gauss.wpn
+21 Jun 2023 03:14:58 : LOADED gazer.wpn
+21 Jun 2023 03:14:58 : LOADED gazerpod.wpn
+21 Jun 2023 03:14:58 : LOADED gazer_payload.wpn
+21 Jun 2023 03:14:58 : LOADED gigacannon.wpn
+21 Jun 2023 03:14:58 : LOADED gorgon.wpn
+21 Jun 2023 03:14:58 : LOADED gorgonpod.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED gorgon_payload.wpn
+21 Jun 2023 03:14:58 : LOADED gravitonbeam.wpn
+21 Jun 2023 03:14:58 : LOADED guardian.wpn
+21 Jun 2023 03:14:58 : LOADED hammer.wpn
+21 Jun 2023 03:14:58 : LOADED hammerrack.wpn
+21 Jun 2023 03:14:58 : LOADED hammer_single.wpn
+21 Jun 2023 03:14:58 : LOADED harpoon.wpn
+21 Jun 2023 03:14:58 : LOADED harpoonpod.wpn
+21 Jun 2023 03:14:58 : LOADED harpoon_single.wpn
+21 Jun 2023 03:14:58 : LOADED heatseeker.wpn
+21 Jun 2023 03:14:58 : LOADED heavyac.wpn
+21 Jun 2023 03:14:58 : LOADED heavyblaster.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED heavyburst.wpn
+21 Jun 2023 03:14:58 : LOADED heavymauler.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name stopPreviousFireSound in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED heavymg.wpn
+21 Jun 2023 03:14:58 : LOADED heavymortar.wpn
+21 Jun 2023 03:14:58 : LOADED heavyneedler.wpn
+21 Jun 2023 03:14:58 : LOADED hellbore.wpn
+21 Jun 2023 03:14:58 : LOADED hephag.wpn
+21 Jun 2023 03:14:58 : LOADED hil.wpn
+21 Jun 2023 03:14:58 : LOADED hurricane.wpn
+21 Jun 2023 03:14:58 : LOADED hveldriver.wpn
+21 Jun 2023 03:14:58 : LOADED hydra.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED hydra_payload.wpn
+21 Jun 2023 03:14:58 : LOADED interdictorbeam.wpn
+21 Jun 2023 03:14:58 : LOADED ionbeam.wpn
+21 Jun 2023 03:14:58 : LOADED ioncannon.wpn
+21 Jun 2023 03:14:58 : LOADED ioncannon_fighter.wpn
+21 Jun 2023 03:14:58 : LOADED ionpulser.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : [WARN] could not find field name skipIdleFrameIfZeroBurstDelay in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED irautolance.wpn
+21 Jun 2023 03:14:58 : LOADED irpulse.wpn
+21 Jun 2023 03:14:58 : LOADED irpulse_fighter.wpn
+21 Jun 2023 03:14:58 : LOADED jackhammer.wpn
+21 Jun 2023 03:14:58 : LOADED kineticblaster.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED lidardish.wpn
+21 Jun 2023 03:14:58 : LOADED lightac.wpn
+21 Jun 2023 03:14:58 : LOADED lightag.wpn
+21 Jun 2023 03:14:58 : LOADED lightdualac.wpn
+21 Jun 2023 03:14:58 : LOADED lightdualmg.wpn
+21 Jun 2023 03:14:58 : LOADED lightmg.wpn
+21 Jun 2023 03:14:58 : LOADED lightmortar.wpn
+21 Jun 2023 03:14:58 : LOADED lightneedler.wpn
+21 Jun 2023 03:14:58 : LOADED lights_buffalo.wpn
+21 Jun 2023 03:14:58 : LOADED lights_hound.wpn
+21 Jun 2023 03:14:58 : LOADED locust.wpn
+21 Jun 2023 03:14:58 : LOADED lrpdlaser.wpn
+21 Jun 2023 03:14:58 : LOADED mark9.wpn
+21 Jun 2023 03:14:58 : LOADED minelayer1.wpn
+21 Jun 2023 03:14:58 : LOADED minelayer2.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name mountTypeOverride in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED miningblaster.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name mountTypeOverride in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED mininglaser.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name mountTypeOverride in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED minipulser.wpn
+21 Jun 2023 03:14:58 : LOADED mjolnir.wpn
+21 Jun 2023 03:14:58 : LOADED multineedler.wpn
+21 Jun 2023 03:14:58 : LOADED nb_bomblauncher.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED novalaser.wpn
+21 Jun 2023 03:14:58 : LOADED od_bomblauncher.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED pdburst.wpn
+21 Jun 2023 03:14:58 : LOADED pdburst_fighter.wpn
+21 Jun 2023 03:14:58 : LOADED pdlaser.wpn
+21 Jun 2023 03:14:58 : LOADED phasebeam.wpn
+21 Jun 2023 03:14:58 : LOADED phasecl.wpn
+21 Jun 2023 03:14:58 : LOADED phasecl_bomber.wpn
+21 Jun 2023 03:14:58 : LOADED pilum.wpn
+21 Jun 2023 03:14:58 : LOADED pilum_large.wpn
+21 Jun 2023 03:14:58 : LOADED plasma.wpn
+21 Jun 2023 03:14:58 : LOADED pulselaser.wpn
+21 Jun 2023 03:14:58 : LOADED pusherplate_lt.wpn
+21 Jun 2023 03:14:58 : LOADED pusherplate_lt_small.wpn
+21 Jun 2023 03:14:58 : LOADED pusherplate_nova.wpn
+21 Jun 2023 03:14:58 : LOADED railgun.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name mountTypeOverride in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : [WARN] could not find field name unaffectedByProjectileSpeedBonuses in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED realitydisruptor.wpn
+21 Jun 2023 03:14:58 : LOADED reaper.wpn
+21 Jun 2023 03:14:58 : LOADED resonatormrm.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name coreWidthMult in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED riftbeam.wpn
+21 Jun 2023 03:14:58 : LOADED riftbeam_minelayer.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name coreWidthMult in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED riftcascade.wpn
+21 Jun 2023 03:14:58 : LOADED riftcascade_minelayer.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name coreWidthMult in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED riftlance.wpn
+21 Jun 2023 03:14:58 : LOADED riftlance_minelayer.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name mountTypeOverride in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED rifttorpedo.wpn
+21 Jun 2023 03:14:58 : LOADED sabot.wpn
+21 Jun 2023 03:14:58 : LOADED sabotpod.wpn
+21 Jun 2023 03:14:58 : LOADED sabot_fighter.wpn
+21 Jun 2023 03:14:58 : LOADED sabot_single.wpn
+21 Jun 2023 03:14:58 : LOADED salamanderpod.wpn
+21 Jun 2023 03:14:58 : LOADED sensordish.wpn
+21 Jun 2023 03:14:58 : LOADED shockrepeater.wpn
+21 Jun 2023 03:14:58 : LOADED shredder.wpn
+21 Jun 2023 03:14:58 : LOADED squall.wpn
+21 Jun 2023 03:14:58 : LOADED swarmer.wpn
+21 Jun 2023 03:14:58 : LOADED swarmer_fighter.wpn
+21 Jun 2023 03:14:58 : LOADED tachyonlance.wpn
+21 Jun 2023 03:14:58 : LOADED taclaser.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED targetinglaser1.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED targetinglaser2.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name hitGlowBrightenDuration in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : [WARN] could not find field name useGlowColorForHitGlow in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED targetinglaser3.wpn
+21 Jun 2023 03:14:58 : LOADED terminator_missile.wpn
+21 Jun 2023 03:14:58 : LOADED tpc.wpn
+21 Jun 2023 03:14:58 : LOADED typhoon.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name mountTypeOverride in object of type TStarfarerWeapon
+21 Jun 2023 03:14:58 : LOADED vpdriver.wpn
+21 Jun 2023 03:14:58 : LOADED vulcan.wpn
+21 Jun 2023 03:14:58 : [WARN] could not find field name glowAlternateColor in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name glowSizeMult in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name contrailDuration in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name contrailMinSeg in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name contrailWidthAddedFractionAtEnd in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name contrailWidthMult in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name glowAlternateColor in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name glowOutline in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name glowSizeMult in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name glowSprite in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : [WARN] could not find field name omegaMode in object of type TStarfarerCustomEngineStyleSpec
+21 Jun 2023 03:14:58 : Enum  COBRA_BOMBER  (ship.engine.styleId)
+21 Jun 2023 03:14:58 : Enum  OMEGA  (ship.engine.styleId)
+21 Jun 2023 03:14:58 : LOADED ship_data.csv
+21 Jun 2023 03:14:58 : LOADED wing_data.csv
+21 Jun 2023 03:14:58 : Enum    (weapon_csv.type)
+21 Jun 2023 03:14:58 : LOADED weapon_data.csv
+21 Jun 2023 03:14:58 : warning: duplicate key: the flagship will establish a neural link with another ship with a Neural Interface. If the flagship is destroyed or leaves the battlefield [C:\Pearlabyss\Star Sector\Starsector/starsector-core/data/hullmods/hull_mods.csv]
+21 Jun 2023 03:14:58 : warning: duplicate key: regardless of which one you're controlling personally. As with ""transfer command"" [C:\Pearlabyss\Star Sector\Starsector/starsector-core/data/hullmods/hull_mods.csv]
+21 Jun 2023 03:14:58 : warning: duplicate key: damage [C:\Pearlabyss\Star Sector\Starsector/starsector-core/data/hullmods/hull_mods.csv]
+21 Jun 2023 03:14:58 : warning: duplicate key: damage [C:\Pearlabyss\Star Sector\Starsector/starsector-core/data/hullmods/hull_mods.csv]
+21 Jun 2023 03:14:58 : warning: duplicate key: damage [C:\Pearlabyss\Star Sector\Starsector/starsector-core/data/hullmods/hull_mods.csv]
+21 Jun 2023 03:14:58 : warning: duplicate key: damage [C:\Pearlabyss\Star Sector\Starsector/starsector-core/data/hullmods/hull_mods.csv]
+21 Jun 2023 03:14:58 : warning: duplicate key: damage [C:\Pearlabyss\Star Sector\Starsector/starsector-core/data/hullmods/hull_mods.csv]
+21 Jun 2023 03:14:58 : warning: duplicate key: damage [C:\Pearlabyss\Star Sector\Starsector/starsector-core/data/hullmods/hull_mods.csv]
+21 Jun 2023 03:14:58 : warning: duplicate key: damage [C:\Pearlabyss\Star Sector\Starsector/starsector-core/data/hullmods/hull_mods.csv]
+21 Jun 2023 03:14:58 : LOADED hull_mods.csv
+21 Jun 2023 03:14:58 : Loading MOD Data: C:\Pearlabyss\Star Sector\Starsector\mods\BC-304/
+21 Jun 2023 03:14:58 : Loading MOD Data: C:\Pearlabyss\Star Sector\Starsector\mods\BC-304/
+21 Jun 2023 03:14:58 : Loading MOD Data: C:\Pearlabyss\Star Sector\Starsector\mods\BC-304/
+21 Jun 2023 03:14:58 : Loading MOD Data: C:\Pearlabyss\Star Sector\Starsector\mods\BC-304/
+21 Jun 2023 03:14:58 : Loading MOD Data: C:\Pearlabyss\Star Sector\Starsector\mods\BC-304/
+21 Jun 2023 03:14:58 : Loading MOD Data: C:\Pearlabyss\Star Sector\Starsector\mods\BC-304/
+21 Jun 2023 03:15:10 : Loading MOD Data: C:\Pearlabyss\Star Sector\Starsector\mods\Stargate_Ship_And_Weapon_Pack/
+21 Jun 2023 03:15:10 : LOADED Ancient_Atropos.ship
+21 Jun 2023 03:15:10 : LOADED Ancient_Aurora.ship
+21 Jun 2023 03:15:10 : LOADED Ancient_Caelus.ship
+21 Jun 2023 03:15:10 : LOADED Ancient_Destiny.ship
+21 Jun 2023 03:15:10 : LOADED Ancient_Jumper.ship
+21 Jun 2023 03:15:10 : LOADED Ancient_Seedship.ship
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Al'kesh.ship
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Anubis.ship
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Apophis.ship
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Glider.ship
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Ha'tak.ship
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Ha'tel.ship
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Hok'kesh.ship
+21 Jun 2023 03:15:10 : LOADED Ori_Deliverance.ship
+21 Jun 2023 03:15:10 : LOADED Ori_Interceptor.ship
+21 Jun 2023 03:15:10 : LOADED Replicator_Destroyer.ship
+21 Jun 2023 03:15:10 : LOADED Replicator_Samantha.ship
+21 Jun 2023 03:15:10 : LOADED Replicator_Spider.ship
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Concordia.ship
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Daedalus.ship
+21 Jun 2023 03:15:10 : LOADED Tau'ri_F-301.ship
+21 Jun 2023 03:15:10 : LOADED Tau'ri_F-302.ship
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Heracles.ship
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Phoenix.ship
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Prometheus.ship
+21 Jun 2023 03:15:10 : LOADED Wraith_Cruiser.ship
+21 Jun 2023 03:15:10 : LOADED Wraith_Dart.ship
+21 Jun 2023 03:15:10 : LOADED Wraith_Hive.ship
+21 Jun 2023 03:15:10 : LOADED Ancient_Atropos_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Aurora_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Caelus_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Destiny_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Seedship_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Anubis_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Apophis_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Ha'tak_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Ha'tel_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Hok'kesh_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ori_Deliverance_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Replicator_Destroyer_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Replicator_Samantha_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Replicator_Spider_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Concordia_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Daedalus_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Heracles_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Phoenix_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Prometheus_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Wraith_Cruiser_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Wraith_Hive_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Jumper_HeavyFighter.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Al'kesh_HeavyFighter.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Glider_Interceptor.variant
+21 Jun 2023 03:15:10 : LOADED Ori_Interceptor_Interceptor.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_F-301_Fighter.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_F-302_Fighter.variant
+21 Jun 2023 03:15:10 : LOADED Wraith_Dart_Interceptor.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Atropos_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Aurora_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Caelus_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Destiny_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Seedship_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Anubis_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Apophis_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Ha'tak_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Ha'tel_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Hok'kesh_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ori_Deliverance_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Replicator_Destroyer_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Replicator_Samantha_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Replicator_Spider_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Concordia_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Daedalus_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Heracles_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Phoenix_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Prometheus_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Wraith_Cruiser_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Wraith_Hive_Elite.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Jumper_HeavyFighter.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Al'kesh_HeavyFighter.variant
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Glider_Interceptor.variant
+21 Jun 2023 03:15:10 : LOADED Ori_Interceptor_Interceptor.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_F-301_Fighter.variant
+21 Jun 2023 03:15:10 : LOADED Tau'ri_F-302_Fighter.variant
+21 Jun 2023 03:15:10 : LOADED Wraith_Dart_Interceptor.variant
+21 Jun 2023 03:15:10 : LOADED Ancient_Large_Drone_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Ancient_Large_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Ancient_Medium_Drone_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Ancient_Medium_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Ancient_Micro_Drone_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Ancient_Small_Drone_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Destiny_Large_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Destiny_Medium_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Destiny_Small_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Destiny_XLarge_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Large_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Medium_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Micro_Bomb_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Micro_Double_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Micro_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Small_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Goa'uld_Super_Weapon.wpn
+21 Jun 2023 03:15:10 : LOADED Ori_Beam_Weapon.wpn
+21 Jun 2023 03:15:10 : LOADED Ori_Medium_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Ori_Micro_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Replicator_Large_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Replicator_Medium_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Beam_Weapon.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Medium_Cruise_Missile_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Medium_Railgun.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Micro_Cruise_Missile_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Micro_Railgun.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Micro_SRM_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Nuclear_MIRV_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Nuclear_Missile_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Small_Cruise_Missile_Launcher.wpn
+21 Jun 2023 03:15:10 : LOADED Tau'ri_Small_Railgun.wpn
+21 Jun 2023 03:15:10 : LOADED Wraith_Large_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Wraith_Medium_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED Wraith_Micro_Turret.wpn
+21 Jun 2023 03:15:10 : LOADED ship_data.csv
+21 Jun 2023 03:15:10 : LOADED wing_data.csv
+21 Jun 2023 03:15:10 : LOADED weapon_data.csv
+21 Jun 2023 03:15:42 : Activate Variant Editor
+21 Jun 2023 03:19:49 : Activate Ship Editor
+21 Jun 2023 03:19:52 : Activate Variant Editor

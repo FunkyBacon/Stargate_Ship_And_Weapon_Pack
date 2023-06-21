@@ -42,7 +42,7 @@ Please let me know if you encounter any compatability issues!
 
 
 # Are the ships/weapons balanced compared to Vanilla?
-I have tried to balance them somewhat but this is a very time intensive process and difficult thing to do. Especially for someone like myself who has only done a single campaign of StarSector and is not aware of the gazillion of possible ship builds out there. 
+I have tried to balance them somewhat but this is a very time intensive process and difficult thing to do. Especially for someone like myself who has only played a single campaign of StarSector and is not yet quite aware of the gazillion of possible ship builds out there. 
 Some ships, like the Ori's Deliverance, are intended to be exceptionally strong. These ships have a much higher deployment point cost in an attempt to compensate for this. Same goes for weapons like the Ancients' Drone launchers.
 The balancing was done based on the "Elite" variants listed under Autofit, which are the intended fits for these ships. In addition the weapons have not been tested on Vanilla ships. I am aware that this means in 'unintended' scenarios they could possibly be completely broken one way or the other.
 However, I have chosen to release the mod in a semi-finished state instead of tweaking it another million times before release to get feedback and allow myself to move onwards to the next steps for this mod meanwhile.
@@ -50,10 +50,10 @@ If you find something that you think is underpowered or overpowered, please let 
 [link]
 
 
-# What is the next steps mentioned above?
+# What are the next steps mentioned above?
 I intend to import more models for each of the factions, and have the individual stargate factions spawn separately as factions ingame!
 Once the above has been realized I'll also split the factions into their own individual blueprint packages.
-That said, I intend to have the Weapon and Ship pack, and the Faction implementation as two separate mods.
+That said, I currently intend to have the Weapon and Ship pack, and the Faction implementation as two separate mods.
 In addition, I also want to change the weapon models and weapon sounds.
 
 
@@ -62,5 +62,5 @@ I am aware of this. Sadly the choices I am aware of is between an oversized Daed
 I intend to revisit this issue at some point in the future, but please let me know if you know another way to go about solving this!
 
 
-# The Destiny/Seedship/Replicator Samantha/Ori Deliverance glow look silly!
-These ships their sprites I'll have to put time into at some point, but they work well enough for now, on the to-do list.
+# The Destiny/Seedship/Replicator Samantha/Ori Deliverance engine/glow looks silly!
+These ships their sprites I'll have to put time into at some point, but they work ok-ish for now, on the to-do list.

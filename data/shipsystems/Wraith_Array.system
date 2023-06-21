@@ -1,0 +1,13 @@
+{
+	"id":"Wraith_Array",
+	"type":"STAT_MOD",
+	"aiType":"WEAPON_BOOST",
+	
+	"statsScript":"data.shipsystems.scripts.Wraith_Array_Stats",
+	
+	"weaponGlowColor":[255,200,0,155],
+	"weaponTypes":[ENERGY],
+	
+	"useSound":"system_ammo_feeder",
+	"outOfUsesSound":"gun_out_of_ammo",
+}

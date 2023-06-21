@@ -1,4 +1,8 @@
 {
+	"minBattleSize":1500, # in supplies-to-recover. min value for settings slider
+	"defaultBattleSize":1750, # in supplies-to-recover. starting value for settings slider
+	"maxBattleSize":2000, # in supplies-to-recover. max value for settings slider	
+
 	"designTypeColors":{
 		"Stargate":[252,173,60,255],
     },
