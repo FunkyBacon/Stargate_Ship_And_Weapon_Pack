@@ -20,14 +20,14 @@ Tested with Vanilla, you can add the mod at any time. Market updated immediately
 However, you can [b]not[/b] remove the mod without starting a new game!
 
 
-[b]Requirements:[/b]
+Requirements:
 None as far as I am currently aware.
 
 
 Regarding versioning:
 Despite there still being a lot of things and tweaking to be done, I have decided to release early and start with V1.0.0 as starting with anything below that would mean it would almost certainly never reach V1.0.0 because there is always more to perfect.
 Please let me know if you encounter any issues or have feedback!  :)
-[link]
+https://fractalsoftworks.com/forum/index.php?topic=27383.0
 
 
 
@@ -79,7 +79,7 @@ Some ships, like the Ori's Deliverance, are intended to be exceptionally strong.
 The balancing was done based on the "Elite" variants listed under Autofit, which are the intended fits for these ships. In addition the weapons have not been tested on Vanilla ships. I am aware that this means in 'unintended' scenarios they could possibly be completely broken one way or the other.
 However, I have chosen to release the mod in a semi-finished state instead of tweaking it another million times before release to get feedback and allow myself to move onwards to the next steps for this mod meanwhile.
 If you find something that you think is underpowered or overpowered, please let me know on the forum!
-[link]
+https://fractalsoftworks.com/forum/index.php?topic=27383.0
 
 
 # What are the next steps mentioned above?
